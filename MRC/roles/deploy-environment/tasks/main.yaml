@@ -6,4 +6,34 @@
 
 - name: update all apt packages
   become: yes
-  apt: update_cache=yes upgrade=dist force_apt_get=yes
+  apt:
+    update_cache: yes
+    upgrade: yes
+    force_apt_get: yes
+
+- name: install necessary dependencies
+  become: yes
+  apt:
+    name: ['vim', 'unzip', 'git', 'python3-pip', 'curl']
+    state: latest
+    update_cache: yes
+
+- name: create /data directory
+  become: yes
+  file:
+    path: /data
+    state: directory
+
+- name: Format volume
+  filesystem:
+    fstype: ext4
+    dev: "/dev/vdb"
+  become: true
+
+- name: Mount
+  mount:
+    path: "/data"
+    src: "/dev/vdb"
+    fstype: ext4
+    state: mounted
+  become: true

@@ -17,14 +17,20 @@ project_working_directory: /home/jiacheng/Desktop/CCC/Team61/COMP90024_A2
 volumes:
   - vol_name: vol_db1
     vol_size: 80
-    #device: /dev/vdb
-    #mountpoint: /data
+    device: /dev/vdb
+    mountpoint: /data
   - vol_name: vol_db2
     vol_size: 80
+    device: /dev/vdb
+    mountpoint: /data
   - vol_name: vol_db3
     vol_size: 80
+    device: /dev/vdb
+    mountpoint: /data
   - vol_name: vol_db4
     vol_size: 80
+    device: /dev/vdb
+    mountpoint: /data
 
 # Security group
 #############################################
