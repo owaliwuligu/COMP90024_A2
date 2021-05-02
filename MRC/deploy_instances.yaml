@@ -12,4 +12,3 @@
     - role: openstack-security-group
     - role: openstack-instance
     - role: deploy-environment
-    #- role: openstack-volume-snapshot
