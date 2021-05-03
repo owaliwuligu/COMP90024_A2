@@ -11,4 +11,3 @@
     - role: openstack-volume
     - role: openstack-security-group
     - role: openstack-instance
-    - role: deploy-environment
