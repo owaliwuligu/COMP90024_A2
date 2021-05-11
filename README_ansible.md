@@ -7,6 +7,7 @@ https://youtu.be/l-dD9ifIqnU
 [all:vars]
 
 ansible_user=ubuntu
+
 [instance1-frontend]
 
 172.26.131.76
