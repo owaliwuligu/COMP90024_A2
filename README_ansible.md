@@ -31,16 +31,18 @@ https://youtu.be/TJZ4j1viZbE
 ## 5. Need to be deleted before the final check:
 The Team61 Key locates in /COMP90024_A2/Key directory.
 Need to add this key to ssh for convenient concerns.
-
+---
 Command in terminal:
 
-(sudo chmod 600 Team61)  ## Only needed while error
+(sudo chmod 600 Team61)  ## Only needed while next step errors.
 
-ssh-add Team61  ## While you are now in the directory which contains keys
+---
+ssh-add Team61  ## While you are now in the directory which contains keys.
 
-In instance 1, I installed nginx and couchdb (clustered with others)
+---
+In instance 1, I installed nginx and couchdb (clustered with others).
 
-In other instance, I install couchdb (clustered with others)
+In other instance, I install couchdb (clustered with others).
 
 Other necessary packages, such as vim, pip, etc., I installed them at the beginning.
 
