@@ -8,21 +8,21 @@ https://youtu.be/l-dD9ifIqnU
 
 ansible_user=ubuntu
 
-[instance1-frontend]
+###[instance1-frontend]
 
-172.26.131.76
+<b>172.26.131.76</b>
 
-[instance2-backend]
+###[instance2-backend]
 
-172.26.133.169
+<b>172.26.133.169</b>
 
-[instance3-backend]
+###[instance3-backend]
 
-172.26.129.90
+<b>172.26.129.90</b>
 
-[instance4-analysis]
+###[instance4-analysis]
 
-172.26.133.30
+<b>172.26.133.30</b>
 
 ## 4. Deploy Environment and other necessary applications
 https://youtu.be/TJZ4j1viZbE
@@ -34,10 +34,10 @@ Need to add this key to ssh for convenient concerns.
 ---
 Command in terminal:
 
-(sudo chmod 600 Team61)  ## Only needed while next step errors.
+(<b>sudo chmod 600 Team61</b>)  ## Only needed while next step errors.
 
 ---
-ssh-add Team61  ## While you are now in the directory which contains keys.
+<b>ssh-add Team61</b>  ## While you are now in the directory which contains keys.
 
 ---
 In instance 1, I installed nginx and couchdb (clustered with others).
