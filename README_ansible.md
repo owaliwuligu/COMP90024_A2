@@ -42,11 +42,9 @@ Command in terminal:
 ---
 Without adding key to ssh:
 
-<b>ssh -i ./Team61 ubuntu@<instance_IP_address>
+<b>ssh -i ./Team61 ubuntu@<instance_IP_address></b>
 
 ---
-
-
 
 In instance 1, I installed nginx and couchdb (clustered with others).
 
@@ -56,6 +54,15 @@ Other necessary packages, such as vim, pip, etc., I installed them at the beginn
 
 If there are other packages needed, please contact me asap.
 
+---
+
+When you log into couchdb:
+
+<b>user: admin
+
+pw: 616161
+
+cookie: team61cookie</b>
 
 
 ## 6. Other notes
