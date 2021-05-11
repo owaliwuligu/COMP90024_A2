@@ -24,7 +24,7 @@ ansible_user=ubuntu
 
 <b>172.26.133.30</b>
 
-## 4. Deploy Environment and other necessary applications
+## 4. Deploy Environment and other necessary packages
 https://youtu.be/TJZ4j1viZbE
 
 
