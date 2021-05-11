@@ -29,9 +29,9 @@ https://youtu.be/TJZ4j1viZbE
 
 
 ## 5. Need to be deleted before the final check:
-
 The Team61 Key locates in /COMP90024_A2/Key directory.
 Need to add this key to ssh for convenient concerns.
+
 ---
 Command in terminal:
 
