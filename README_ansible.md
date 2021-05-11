@@ -8,19 +8,19 @@ https://youtu.be/l-dD9ifIqnU
 
 ansible_user=ubuntu
 
-###[instance1-frontend]
+### [instance1-frontend]
 
 <b>172.26.131.76</b>
 
-###[instance2-backend]
+### [instance2-backend]
 
 <b>172.26.133.169</b>
 
-###[instance3-backend]
+### [instance3-backend]
 
 <b>172.26.129.90</b>
 
-###[instance4-analysis]
+### [instance4-analysis]
 
 <b>172.26.133.30</b>
 
@@ -40,6 +40,14 @@ Command in terminal:
 <b>ssh-add Team61</b>  ## While you are now in the directory which contains keys.
 
 ---
+Without adding key to ssh:
+
+<b>ssh -i ./Team61 ubuntu@<instance_IP_address>
+
+---
+
+
+
 In instance 1, I installed nginx and couchdb (clustered with others).
 
 In other instance, I install couchdb (clustered with others).
