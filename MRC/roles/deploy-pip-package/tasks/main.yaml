@@ -1,0 +1,6 @@
+- name: Install python packages
+  become: yes
+  pip:
+    name: ['tweepy','pandas','numpy']
+    state: latest
+
