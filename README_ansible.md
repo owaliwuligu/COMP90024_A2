@@ -38,5 +38,15 @@ Command in terminal:
 
 ssh-add Team61  ## While you are now in the directory which contains keys
 
+In instance 1, I installed nginx and couchdb (clustered with others)
+
+In other instance, I install couchdb (clustered with others)
+
+Other necessary packages, such as vim, pip, etc., I installed them at the beginning.
+
+If there are other packages needed, please contact me asap.
+
+
+
 ## 6. Other notes
 May update later when we met other problems.
