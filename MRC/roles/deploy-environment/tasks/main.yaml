@@ -1,15 +1,15 @@
-#- name: add proxy to environments
-#  become: yes
-#  lineinfile:
-#    line: "HTTP_PROXY=\"http://wwwproxy.unimelb.edu.au:8000/\"\nHTTPS_PROXY=\"http://wwwproxy.unimelb.edu.au:8000/\"\nhttp_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nhttps_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nftp_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nno_proxy=\"localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au\"\n"
-#    dest: /etc/environment
+- name: add proxy to environments
+  become: yes
+  lineinfile:
+    line: "HTTP_PROXY=\"http://wwwproxy.unimelb.edu.au:8000/\"\nHTTPS_PROXY=\"http://wwwproxy.unimelb.edu.au:8000/\"\nhttp_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nhttps_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nftp_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nno_proxy=\"localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au\"\n"
+    dest: /etc/environment
 
-#- name: update all apt packages
-#  become: yes
-#  apt:
-#    update_cache: yes
-#    upgrade: yes
-#    force_apt_get: yes
+- name: update all apt packages
+  become: yes
+  apt:
+    update_cache: yes
+    upgrade: yes
+    force_apt_get: yes
 
 - name: install necessary dependencies
   become: yes

@@ -85,4 +85,7 @@
   lineinfile:
     line: "[{{ item.name }}]\n{{ item.ip }}\n"
     dest: "{{project_working_directory}}/MRC/inventory/hosts.ini"
+    state: present
   loop: '{{ip_addresses}}'
+  register: hosts_file
+
