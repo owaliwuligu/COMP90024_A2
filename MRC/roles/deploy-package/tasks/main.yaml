@@ -1,0 +1,12 @@
+- name: Install python packages
+  become: yes
+  pip:
+    name: ['tweepy','pandas','numpy']
+    state: latest
+
+- name: Install node.js | 1
+  raw: curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+
+- name: Install node.js | 2
+  raw: sudo apt-get install -y nodejs
+
