@@ -10,12 +10,13 @@ def get_all_dbs():
     """
     url = "http://admin:616161@172.26.133.30:5984/_all_dbs"
     r = requests.get(url)
+    print "status code: " + str(r.status_code)
     if r.status_code == 200:
         print "Successfully get all databases."
+        return r.content
     else:
         print "Fail to get all databases."
-    print "status code: "+str(r.status_code)
-    return r.content
+        return None
 
 
 def get_db(database):
@@ -26,12 +27,13 @@ def get_db(database):
     """
     url = "http://admin:616161@172.26.133.30:5984/"+database
     r = requests.get(url)
+    print "status code: " + str(r.status_code)
     if r.status_code == 200:
         print "Successfully get the database info."
+        return r.content
     else:
         print "Fail to get the database info."
-    print "status code: "+str(r.status_code)
-    return r.content
+        return None
 
 
 def get_all_docs(database):
@@ -42,12 +44,13 @@ def get_all_docs(database):
     """
     url = "http://admin:616161@172.26.133.30:5984/"+database+"/_all_docs"
     r = requests.get(url)
+    print "status code: " + str(r.status_code)
     if r.status_code == 200:
         print "Successfully get all document contents."
+        return r.content
     else:
         print "Fail to get all document contents."
-    print "status code: "+str(r.status_code)
-    return r.content
+        return None
 
 
 def get_doc(database, doc_id):
@@ -59,12 +62,13 @@ def get_doc(database, doc_id):
     """
     url = "http://admin:616161@172.26.133.30:5984/"+database+"/"+doc_id
     r = requests.get(url)
+    print "status code: " + str(r.status_code)
     if r.status_code == 200:
         print "Successfully get the document content."
+        return r.content
     else:
         print "Fail to get the document content."
-    print "status code: "+str(r.status_code)
-    return r.content
+        return None
 
 
 def upload_doc(database, doc):
@@ -76,15 +80,41 @@ def upload_doc(database, doc):
     """
     url = "http://admin:616161@172.26.133.30:5984/"+database
     r = requests.post(url, headers={'Content-Type': 'application/json'}, data=doc)
+    print "status code: " + str(r.status_code)
     if r.status_code == 201:
         print "Successfully upload the document."
+        return r.content
     else:
         print "Fail to upload the document."
-    print "status code: "+str(r.status_code)
-    return r.content
+        return None
 
 
-# content = get_all_docs("tweet_data")
+def get_tweet_by_user(database, user_id):
+    """Get the tweet number and latest tweet time of target user
+
+    :param database: the target database name
+    :param user_id: the target user id
+    :return: dict with user_id, tweet_number, latest_tweet
+    """
+    url_count = "http://admin:616161@172.26.133.30:5984/" + database + "/_design/user_query/_view/user_count"
+    url_time = "http://admin:616161@172.26.133.30:5984/"+database+"/_design/user_query/_view/user_latest"
+    para = '{"startkey": '+user_id+', "endkey": '+user_id+'}'
+    r_count = requests.post(url_count, headers={'Content-Type': 'application/json'}, data=para)
+    r_time = requests.post(url_time, headers={'Content-Type': 'application/json'}, data=para)
+    print "status code: " + str(r_count.status_code) + "/" + str(r_time.status_code)
+    if r_count.status_code == 200 and r_time.status_code == 200:
+        print "Successfully get the user record."
+        if (json.loads(r_count.content)['rows']):
+            res = {'user_id': user_id, 'tweet_number': json.loads(r_count.content)['rows'][0]['value'],
+                   'latest_tweet': json.loads(r_time.content)['rows'][0]['value']}
+            return res
+        return {'user_id': user_id, 'tweet_number': 0, 'latest_tweet': None}
+    else:
+        print "Fail to get the user record."
+        return None
+
+
+# content = get_tweet_by_user("tweet_data", "823550539")
 # print content
 
 # tweet_data_file = open("sniffer.data", mode='r')
