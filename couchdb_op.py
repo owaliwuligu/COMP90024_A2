@@ -94,27 +94,31 @@ def get_tweet_by_user(database, user_id):
 
     :param database: the target database name
     :param user_id: the target user id
-    :return: dict with user_id, tweet_number, latest_tweet
+    :return: dict with user_id, tweet_number, latest_tweet, all_records. The all_records is a list of JSON
+            with format of [{"id":xxx,"key":xxx,"value":{"_id":xxx,"_rev":xxx,...}},{...},...]
     """
     url_count = "http://admin:616161@172.26.133.30:5984/" + database + "/_design/user_query/_view/user_count"
     url_time = "http://admin:616161@172.26.133.30:5984/"+database+"/_design/user_query/_view/user_latest"
-    para = '{"startkey": '+user_id+', "endkey": '+user_id+'}'
+    url_tweet = "http://admin:616161@172.26.133.30:5984/" + database + "/_design/user_query/_view/by_user_id"
+    para = '{"startkey": "'+user_id+'", "endkey": "'+user_id+'"}'
     r_count = requests.post(url_count, headers={'Content-Type': 'application/json'}, data=para)
     r_time = requests.post(url_time, headers={'Content-Type': 'application/json'}, data=para)
-    print("status code: " + str(r_count.status_code) + "/" + str(r_time.status_code))
-    if r_count.status_code == 200 and r_time.status_code == 200:
+    r_tweet = requests.post(url_tweet, headers={'Content-Type': 'application/json'}, data=para)
+    print("status code: " + str(r_count.status_code) + "/" + str(r_time.status_code) + "/" + str(r_tweet.status_code))
+    if r_count.status_code == 200 and r_time.status_code == 200 and r_tweet.status_code == 200:
         print("Successfully get the user record.")
-        if (json.loads(r_count.content)['rows']):
+        if json.loads(r_count.content)['rows']:
             res = {'user_id': user_id, 'tweet_number': json.loads(r_count.content)['rows'][0]['value'],
-                   'latest_tweet': json.loads(r_time.content)['rows'][0]['value']}
+                   'latest_tweet': json.loads(r_time.content)['rows'][0]['value'],
+                   'all_records': json.loads(r_tweet.content)['rows']}
             return res
-        return {'user_id': user_id, 'tweet_number': 0, 'latest_tweet': None}
+        return {'user_id': user_id, 'tweet_number': 0, 'latest_tweet': None, 'all_records': None}
     else:
         print("Fail to get the user record.")
         return None
 
 
-# content = get_tweet_by_user("tweet_data", "823550539")
+# content = get_tweet_by_user("tweet_data", "907883257802326016")
 # print(content)
 
 # tweet_data_file = open("sniffer.data", mode='r')
