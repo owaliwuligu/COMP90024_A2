@@ -1,0 +1,6 @@
+- name: update all apt packages
+  become: yes
+  apt:
+    update_cache: yes
+    upgrade: yes
+    force_apt_get: yes
