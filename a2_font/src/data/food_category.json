@@ -1,0 +1,1206 @@
+{
+  "Herbs and Spices": {
+    "Herbs": {
+      "Angelica": 0,
+      "Silver linden": 0,
+      "Garlic": 0,
+      "Chives": 0,
+      "Lemon verbena": 0,
+      "Dill": 0,
+      "Tarragon": 0,
+      "Mugwort": 0,
+      "Turnip": 0,
+      "Roman camomile": 0,
+      "Coriander": 0,
+      "Lemon grass": 0,
+      "Fennel": 0,
+      "Hyssop": 0,
+      "Sweet bay": 0,
+      "Lovage": 0,
+      "Mexican oregano": 0,
+      "German camomile": 0,
+      "Lemon balm": 0,
+      "Mentha": 0,
+      "Orange mint": 0,
+      "Cornmint": 0,
+      "Spearmint": 0,
+      "Peppermint": 0,
+      "Sweet basil": 0,
+      "Sweet marjoram": 0,
+      "Pot marjoram": 0,
+      "Common oregano": 0,
+      "Parsley": 0,
+      "Anise": 0,
+      "Purslane": 0,
+      "Watercress": 0,
+      "Rosemary": 0,
+      "Sorrel": 0,
+      "Common sage": 0,
+      "Summer savory": 0,
+      "Winter savory": 0,
+      "Dandelion": 0,
+      "Common thyme": 0,
+      "Linden": 0,
+      "Small-leaf linden": 0,
+      "Fenugreek": 0,
+      "Common verbena": 0,
+      "Chinese chives": 0,
+      "Lemon thyme": 0,
+      "Welsh onion": 0,
+      "Celery leaves": 0,
+      "Italian oregano": 0,
+      "Pineappple sage": 0,
+      "Alfalfa": 0,
+      "Amaranth": 0,
+      "Dock": 0,
+      "Fireweed": 0,
+      "Rose hip": 0,
+      "Roselle": 0,
+      "Teff": 0,
+      "Tea leaf willow": 0,
+      "Epazote": 0,
+      "Sourdock": 0,
+      "Yellow pond-lily": 0,
+      "Soft-necked garlic": 0
+    },
+    "Spices": {
+      "Wild celery": 0,
+      "Horseradish": 0,
+      "Capers": 0,
+      "Caraway": 0,
+      "Chinese cinnamon": 0,
+      "Ceylon cinnamon": 0,
+      "Saffron": 0,
+      "Cumin": 0,
+      "Turmeric": 0,
+      "Cardamom": 0,
+      "Star anise": 0,
+      "Nutmeg": 0,
+      "Pepper": 0,
+      "Cloves": 0,
+      "Vanilla": 0,
+      "Ginger": 0,
+      "Ginseng": 0,
+      "Allspice": 0,
+      "Chervil": 0,
+      "White mustard": 0,
+      "Opium poppy": 0,
+      "Wasabi": 0,
+      "Cinnamon": 0
+    },
+    "Oilseed crops": {
+      "Borage": 0,
+      "Safflower": 0,
+      "Sunflower": 0,
+      "Flaxseed": 0,
+      "Evening primrose": 0,
+      "Poppy": 0,
+      "Sesame": 0,
+      "Cottonseed": 0,
+      "Oil palm": 0,
+      "Sago palm": 0,
+      "Babassu palm": 0,
+      "Cupua\u00e7u": 0,
+      "Shea tree": 0,
+      "Oil-seed Camellia": 0,
+      "Ucuhuba": 0
+    },
+    "Other seeds": {
+      "Breadnut tree seed": 0,
+      "Chia": 0,
+      "Ginkgo nuts": 0,
+      "Lotus": 0,
+      "Quinoa": 0,
+      "Hedge mustard": 0,
+      "Rowal": 0
+    },
+    "Herb and spice mixtures": {
+      "Curry powder": 0
+    },
+    "Herbs and Spices": {
+      "Herbs and Spices": 0
+    }
+  },
+  "Vegetables": {
+    "Cabbages": {
+      "Savoy cabbage": 0,
+      "Chinese mustard": 0,
+      "Common cabbage": 0,
+      "Cauliflower": 0,
+      "Brussel sprouts": 0,
+      "Broccoli": 0,
+      "Chinese cabbage": 0,
+      "Tronchuda cabbage": 0,
+      "Black cabbage": 0,
+      "Komatsuna": 0,
+      "Pak choy": 0,
+      "Napa cabbage": 0,
+      "Kai-lan": 0,
+      "Oxheart cabbage": 0,
+      "Rapini": 0,
+      "Chinese broccoli": 0,
+      "Kale": 0,
+      "Mustard spinach": 0,
+      "Cabbage": 0,
+      "White cabbage": 0
+    },
+    "Onion-family vegetables": {
+      "Allium": 0,
+      "Garden onion": 0,
+      "Leek": 0,
+      "Shallot": 0,
+      "Wild leek": 0,
+      "Onion-family vegetables": 0
+    },
+    "Root vegetables": {
+      "Burdock": 0,
+      "Kohlrabi": 0,
+      "Chicory": 0,
+      "Wild carrot": 0,
+      "Parsnip": 0,
+      "Radish": 0,
+      "Celeriac": 0,
+      "Carrot": 0,
+      "Chicory roots": 0,
+      "Daikon radish": 0,
+      "Black radish": 0,
+      "Red beetroot": 0,
+      "Oregon yampah": 0,
+      "Alpine sweetvetch": 0,
+      "Prairie turnip": 0,
+      "Common salsify": 0,
+      "Taro": 0,
+      "Jicama": 0,
+      "Black salsify": 0,
+      "Thistle": 0,
+      "Root vegetables": 0
+    },
+    "Shoot vegetables": {
+      "Asparagus": 0,
+      "Globe artichoke": 0,
+      "Bamboo shoots": 0,
+      "Cardoon": 0,
+      "American pokeweed": 0
+    },
+    "Leaf vegetables": {
+      "Common beet": 0,
+      "Endive": 0,
+      "Rocket salad": 0,
+      "Swamp cabbage": 0,
+      "Lettuce": 0,
+      "Garden cress": 0,
+      "Spinach": 0,
+      "Swiss chard": 0,
+      "Chicory leaves": 0,
+      "Garland chrysanthemum": 0,
+      "Corn salad": 0,
+      "Jute": 0,
+      "Lambsquarters": 0,
+      "Malabar spinach": 0,
+      "New Zealand spinach": 0,
+      "Yautia": 0,
+      "Ostrich fern": 0,
+      "Romaine lettuce": 0
+    },
+    "Fruit vegetables": {
+      "Pepper": 0,
+      "Olive": 0,
+      "Avocado": 0,
+      "Garden tomato": 0,
+      "Cherry tomato": 0,
+      "Eggplant": 0,
+      "baccatum": 0,
+      "chinense Pepper": 0,
+      "Capsicum": 0,
+      "Groundcherry": 0,
+      "Frutescens": 0,
+      "Mexican groundcherry": 0,
+      "Pubescens": 0,
+      "Green bell pepper": 0,
+      "Yellow bell pepper": 0,
+      "Orange bell pepper": 0,
+      "Red bell pepper": 0,
+      "Italian sweet red pepper": 0
+    },
+    "Tubers": {
+      "Sweet potato": 0,
+      "Potato": 0,
+      "Arrowhead": 0,
+      "Arrowroot": 0,
+      "Cassava": 0,
+      "Jerusalem artichoke": 0,
+      "Mountain yam": 0,
+      "Yam": 0
+    },
+    "Stalk vegetables": {
+      "Garden rhubarb": 0,
+      "Celery stalks": 0,
+      "Alaska wild rhubarb": 0
+    },
+    "Other vegetables": {
+      "Giant butterbur": 0,
+      "Carob": 0,
+      "Chinese water chestnut": 0,
+      "Horseradish tree": 0,
+      "Sacred lotus": 0,
+      "Nopal": 0,
+      "Okra": 0,
+      "Sesbania flower": 0,
+      "Agave": 0,
+      "Narrowleaf cattail": 0,
+      "Heart of palm": 0,
+      "Tree fern": 0
+    },
+    "Mushrooms": {
+      "Jew's ear": 0,
+      "Common mushroom": 0,
+      "Shiitake": 0,
+      "Enokitake": 0,
+      "Oyster mushroom": 0,
+      "Cloud ear fungus": 0,
+      "Maitake": 0,
+      "Chanterelle": 0,
+      "Morchella": 0,
+      "Mushrooms": 0
+    },
+    "Vegetable products": {
+      "Other vegetable product": 0
+    },
+    "Brassicas": {
+      "Brassicas": 0
+    },
+    "Green vegetables": {
+      "Green vegetables": 0
+    }
+  },
+  "Fruits": {
+    "Tropical fruits": {
+      "Kiwi": 0,
+      "Pineapple": 0,
+      "Custard apple": 0,
+      "Star fruit": 0,
+      "Papaya": 0,
+      "Japanese persimmon": 0,
+      "Loquat": 0,
+      "Wax apple": 0,
+      "Lichee": 0,
+      "Mango": 0,
+      "Passion fruit": 0,
+      "Guava": 0,
+      "Pomegranate": 0,
+      "Tamarind": 0,
+      "Banana": 0,
+      "Longan": 0,
+      "Rambutan": 0,
+      "Abiyuch": 0,
+      "Acerola": 0,
+      "Breadfruit": 0,
+      "Natal plum": 0,
+      "Cherimoya": 0,
+      "Coconut": 0,
+      "Durian": 0,
+      "Jackfruit": 0,
+      "Java plum": 0,
+      "Kumquat": 0,
+      "Mammee apple": 0,
+      "Purple mangosteen": 0,
+      "Common persimmon": 0,
+      "Pitanga": 0,
+      "Plains prickly pear": 0,
+      "French plantain": 0,
+      "Prickly pear": 0,
+      "Malabar plum": 0,
+      "Sapodilla": 0,
+      "Mamey sapote": 0,
+      "Soursop": 0,
+      "Sugar apple": 0,
+      "Feijoa": 0,
+      "Persimmon": 0,
+      "Nance": 0,
+      "Naranjilla": 0
+    },
+    "Citrus": {
+      "Lime": 0,
+      "Lemon": 0,
+      "Pummelo": 0,
+      "Mandarin orange": 0,
+      "Sweet orange": 0,
+      "Grapefruit/Pummelo hybrid": 0,
+      "Grapefruit": 0,
+      "Persian lime": 0,
+      "Citrus": 0
+    },
+    "Pomes": {
+      "Quince": 0,
+      "Apple": 0,
+      "Medlar": 0,
+      "Pear": 0,
+      "Asian pear": 0,
+      "Malus": 0,
+      "Pomes": 0
+    },
+    "Berries": {
+      "Black crowberry": 0,
+      "Strawberry": 0,
+      "Black huckleberry": 0,
+      "Sea-buckthornberry": 0,
+      "Mulberry": 0,
+      "Black mulberry": 0,
+      "Black chokeberry": 0,
+      "Blackcurrant": 0,
+      "Redcurrant": 0,
+      "Gooseberry": 0,
+      "Rubus": 0,
+      "Cloudberry": 0,
+      "Red raspberry": 0,
+      "Black raspberry": 0,
+      "Black elderberry": 0,
+      "Rowanberry": 0,
+      "Vaccinium": 0,
+      "Lowbush blueberry": 0,
+      "Sparkleberry": 0,
+      "Highbush blueberry": 0,
+      "American cranberry": 0,
+      "Bilberry": 0,
+      "Lingonberry": 0,
+      "Muscadine grape": 0,
+      "Common grape": 0,
+      "Arctic blackberry": 0,
+      "Bayberry": 0,
+      "Elliott's blueberry": 0,
+      "Canada blueberry": 0,
+      "Bog bilberry": 0,
+      "Buffalo currant": 0,
+      "European cranberry": 0,
+      "Deerberry": 0,
+      "Cascade huckleberry": 0,
+      "Oval-leaf huckleberry": 0,
+      "Evergreen huckleberry": 0,
+      "Red huckleberry": 0,
+      "Summer grape": 0,
+      "Fox grape": 0,
+      "Half-highbush blueberry": 0,
+      "Jostaberry": 0,
+      "Sweet rowanberry": 0,
+      "Skunk currant": 0,
+      "Squashberry": 0,
+      "Elderberry": 0,
+      "Grape": 0,
+      "Alaska blueberry": 0,
+      "Loganberry": 0,
+      "Ohelo berry": 0,
+      "Salmonberry": 0,
+      "Strawberry guava": 0,
+      "Boysenberry": 0,
+      "Chinese bayberry": 0,
+      "Saskatoon berry": 0,
+      "Nanking cherry": 0
+    },
+    "Other fruits": {
+      "Fig": 0,
+      "Date": 0,
+      "Jujube": 0
+    },
+    "Drupes": {
+      "Prunus": 0,
+      "Apricot": 0,
+      "Sweet cherry": 0,
+      "Sour cherry": 0,
+      "European plum": 0,
+      "Peach": 0,
+      "Nectarine": 0,
+      "Common chokecherry": 0
+    },
+    "Fruit products": {
+      "Fruit preserve": 0,
+      "Other fruit product": 0,
+      "Fruit salad": 0
+    },
+    "Fruits": {
+      "Fruits": 0
+    }
+  },
+  "Nuts": {
+    "Nuts": {
+      "Cashew nut": 0,
+      "Peanut": 0,
+      "Brazil nut": 0,
+      "Pecan nut": 0,
+      "Chestnut": 0,
+      "Common hazelnut": 0,
+      "Black walnut": 0,
+      "Common walnut": 0,
+      "Pine nut": 0,
+      "Pistachio": 0,
+      "Almond": 0,
+      "Macadamia nut": 0,
+      "Japanese walnut": 0,
+      "Acorn": 0,
+      "Beech nut": 0,
+      "Butternut": 0,
+      "Chinese chestnut": 0,
+      "European chestnut": 0,
+      "Hazelnut": 0,
+      "Hickory nut": 0,
+      "Japanese chestnut": 0,
+      "Pili nut": 0,
+      "Colorado pinyon": 0,
+      "Walnut": 0,
+      "Mixed nuts": 0,
+      "Nuts": 0
+    }
+  },
+  "Cereals and cereal products": {
+    "Cereals": {
+      "Oat": 0,
+      "Common buckwheat": 0,
+      "Tartary buckwheat": 0,
+      "Barley": 0,
+      "Rice": 0,
+      "Millet": 0,
+      "Rye": 0,
+      "Sorghum": 0,
+      "Common wheat": 0,
+      "Corn": 0,
+      "Red rice": 0,
+      "Annual wild rice": 0,
+      "Hard wheat": 0,
+      "Triticale": 0,
+      "Spelt": 0,
+      "Wild rice": 0,
+      "Oriental wheat": 0,
+      "Wheat": 0
+    },
+    "Other breads": {
+      "Other bread": 0,
+      "Potato bread": 0
+    },
+    "Cereal products": {
+      "Breakfast cereal": 0,
+      "Other cereal product": 0,
+      "Pasta": 0,
+      "Biscuit": 0,
+      "Bulgur": 0,
+      "Semolina": 0,
+      "Flour": 0,
+      "Corn grits": 0
+    },
+    "Doughs": {
+      "Sourdough": 0,
+      "Dough": 0
+    },
+    "Flat breads": {
+      "Crisp bread": 0,
+      "Tortilla": 0,
+      "Pita bread": 0,
+      "Focaccia": 0,
+      "Piki bread": 0,
+      "Cornbread": 0
+    },
+    "Leavened breads": {
+      "Zwieback": 0,
+      "Bagel": 0,
+      "French toast": 0,
+      "Wheat bread": 0,
+      "Rye bread": 0,
+      "Oat bread": 0,
+      "Multigrain bread": 0,
+      "Rice bread": 0,
+      "Pan dulce": 0
+    },
+    "Bread products": {
+      "Other bread product": 0
+    },
+    "Sweet breads": {
+      "Raisin bread": 0
+    },
+    "Cereals and cereal products": {
+      "Cereals and cereal products": 0
+    }
+  },
+  "Pulses": {
+    "Peas": {
+      "Pigeon pea": 0,
+      "Chickpea": 0,
+      "Grass pea": 0,
+      "Common pea": 0,
+      "Cowpea": 0,
+      "Catjang pea": 0,
+      "Black-eyed pea": 0,
+      "Yardlong bean": 0
+    },
+    "Lentils": {
+      "Lentils": 0
+    },
+    "Other pulses": {
+      "Lupine": 0,
+      "White lupine": 0
+    },
+    "Beans": {
+      "Scarlet bean": 0,
+      "Lima bean": 0,
+      "Common bean": 0,
+      "Broad bean": 0,
+      "Adzuki bean": 0,
+      "Gram bean": 0,
+      "Mung bean": 0,
+      "Climbing bean": 0,
+      "Hyacinth bean": 0,
+      "Moth bean": 0,
+      "Winged bean": 0,
+      "Bean": 0,
+      "Yellow wax bean": 0,
+      "Green bean": 0
+    },
+    "Pulses": {
+      "Pulses": 0
+    }
+  },
+  "Teas": {
+    "Teas": {
+      "Tea": 0
+    },
+    "Herbal teas": {
+      "Hibiscus tea": 0,
+      "Greenthread tea": 0
+    }
+  },
+  "Gourds": {
+    "Gourds": {
+      "Watermelon": 0,
+      "Muskmelon": 0,
+      "Cucumber": 0,
+      "Cucurbita": 0,
+      "Bitter gourd": 0,
+      "Winter squash": 0,
+      "Butternut squash": 0,
+      "Calabash": 0,
+      "Chayote": 0,
+      "Towel gourd": 0,
+      "Wax gourd": 0,
+      "Tinda": 0,
+      "Horned melon": 0,
+      "Sunburst squash": 0,
+      "Green zucchini": 0,
+      "Yellow zucchini": 0,
+      "Japanese pumpkin": 0
+    }
+  },
+  "Coffee and coffee products": {
+    "Coffee": {
+      "Coffee": 0,
+      "Arabica coffee": 0,
+      "Robusta coffee": 0
+    },
+    "Coffee products": {
+      "Coffee mocha": 0
+    },
+    "Coffee and coffee products": {
+      "Coffee and coffee products": 0
+    }
+  },
+  "Soy": {
+    "Soy": {
+      "Soy bean": 0
+    },
+    "Soy products": {
+      "Other soy product": 0,
+      "Soy sauce": 0,
+      "Miso": 0,
+      "Tofu": 0,
+      "Soy milk": 0,
+      "Soy yogurt": 0,
+      "Soy cream": 0,
+      "Natto": 0
+    }
+  },
+  "Cocoa and cocoa products": {
+    "Cocoa": {
+      "Cocoa bean": 0
+    },
+    "Cocoa products": {
+      "Other cocoa product": 0,
+      "Cocoa butter": 0,
+      "Cocoa powder": 0,
+      "Cocoa liquor": 0,
+      "Chocolate": 0,
+      "Hot chocolate": 0
+    },
+    "Cocoa and cocoa products": {
+      "Cocoa and cocoa products": 0
+    }
+  },
+  "Beverages": {
+    "Fermented beverages": {
+      "Beer": 0,
+      "Grape wine": 0,
+      "Berry wine": 0,
+      "Other wine": 0,
+      "Apple cider": 0,
+      "Sake": 0
+    },
+    "Distilled beverages": {
+      "Spirit": 0,
+      "Liquor": 0,
+      "Vodka": 0,
+      "Whisky": 0,
+      "Gin": 0,
+      "Rum": 0
+    },
+    "Fortified wines": {
+      "Fortified wine": 0,
+      "Port wine": 0,
+      "Vermouth": 0,
+      "Sherry": 0,
+      "Madeira wine": 0
+    },
+    "Alcoholic beverages": {
+      "Other alcoholic beverage": 0,
+      "Cocktail": 0,
+      "Alcoholic beverages": 0
+    },
+    "Waters": {
+      "Water": 0
+    },
+    "Other beverages": {
+      "Other beverage": 0,
+      "Fruit juice": 0,
+      "Fruit-flavor drink": 0,
+      "Vegetable juice": 0,
+      "Horchata": 0,
+      "Soft drink": 0
+    },
+    "Nutritional beverages": {
+      "Energy drink": 0,
+      "Nutritional drink": 0
+    },
+    "Beverages": {
+      "Beverages": 0
+    }
+  },
+  "Aquatic foods": {
+    "Mollusks": {
+      "Abalone": 0,
+      "Blue mussel": 0,
+      "Nuttall cockle": 0,
+      "Common octopus": 0,
+      "Cuttlefish": 0,
+      "Eastern oyster": 0,
+      "Leather chiton": 0,
+      "North Pacific giant octopus": 0,
+      "Pacific oyster": 0,
+      "Scallop": 0,
+      "Whelk": 0,
+      "Bivalvia": 0,
+      "Squid": 0,
+      "Marine mussel": 0,
+      "True oyster": 0,
+      "Snail": 0,
+      "Conch": 0,
+      "Mollusks": 0
+    },
+    "Seaweed": {
+      "Agar": 0,
+      "Irish moss": 0,
+      "Kelp": 0,
+      "Spirulina": 0,
+      "Purple laver": 0,
+      "Wakame": 0,
+      "Red algae": 0,
+      "Kombu": 0
+    },
+    "Crustaceans": {
+      "Red king crab": 0,
+      "Blue crab": 0,
+      "Dungeness crab": 0,
+      "American lobster": 0,
+      "Spiny lobster": 0,
+      "Snow crab": 0,
+      "Shrimp": 0,
+      "Crayfish": 0,
+      "Crab": 0,
+      "Clawed lobster": 0,
+      "Norway lobster": 0,
+      "Crustaceans": 0
+    },
+    "Fishes": {
+      "Atlantic herring": 0,
+      "Atlantic mackerel": 0,
+      "Painted comber": 0,
+      "Atlantic pollock": 0,
+      "Atlantic wolffish": 0,
+      "Striped bass": 0,
+      "Alaska blackfish": 0,
+      "Northern bluefin tuna": 0,
+      "Bluefish": 0,
+      "Burbot": 0,
+      "American butterfish": 0,
+      "Common carp": 0,
+      "Channel catfish": 0,
+      "Cisco": 0,
+      "Pacific cod": 0,
+      "Atlantic cod": 0,
+      "Atlantic croaker": 0,
+      "Cusk": 0,
+      "Devilfish": 0,
+      "Dolphin fish": 0,
+      "Freshwater drum": 0,
+      "Freshwater eel": 0,
+      "European anchovy": 0,
+      "Turbot": 0,
+      "Florida pompano": 0,
+      "Greenland halibut/turbot": 0,
+      "Grouper": 0,
+      "Haddock": 0,
+      "Hippoglossus": 0,
+      "Pacific jack mackerel": 0,
+      "King mackerel": 0,
+      "Common ling": 0,
+      "Lingcod": 0,
+      "Milkfish": 0,
+      "Monkfish": 0,
+      "Striped mullet": 0,
+      "Ocean pout": 0,
+      "Pacific herring": 0,
+      "Pacific rockfish": 0,
+      "Northern pike": 0,
+      "Rainbow smelt": 0,
+      "Rainbow trout": 0,
+      "Orange roughy": 0,
+      "Sablefish": 0,
+      "Pink salmon": 0,
+      "Chum salmon": 0,
+      "Coho salmon": 0,
+      "Sockeye salmon": 0,
+      "Chinook salmon": 0,
+      "Atlantic salmon": 0,
+      "Spanish mackerel": 0,
+      "Pacific sardine": 0,
+      "Scup": 0,
+      "Seatrout": 0,
+      "American shad": 0,
+      "Shark": 0,
+      "Sheefish": 0,
+      "Sheepshead": 0,
+      "Skipjack tuna": 0,
+      "Snapper": 0,
+      "Greater sturgeon": 0,
+      "White sucker": 0,
+      "Pumpkinseed sunfish": 0,
+      "Swordfish": 0,
+      "Tilefish": 0,
+      "Salmonidae": 0,
+      "Walleye": 0,
+      "Alaska pollock": 0,
+      "Coalfish pollock": 0,
+      "Broad whitefish": 0,
+      "Whitefish": 0,
+      "Whiting": 0,
+      "Yellowfin tuna": 0,
+      "Yellowtail amberjack": 0,
+      "Pollock": 0,
+      "Albacore tuna": 0,
+      "Gadus": 0,
+      "Atlantic halibut": 0,
+      "Pacific halibut": 0,
+      "Pacific salmon": 0,
+      "Smelt": 0,
+      "Clupeinae": 0,
+      "Herring": 0,
+      "Sardine": 0,
+      "Sprat": 0,
+      "Percoidei": 0,
+      "Perciformes": 0,
+      "Flatfish": 0,
+      "Spot croaker": 0,
+      "Atlantic menhaden": 0,
+      "Anchovy": 0,
+      "Blue whiting": 0,
+      "Carp bream": 0,
+      "Sturgeon": 0,
+      "Charr": 0,
+      "Dab": 0,
+      "Spiny dogfish": 0,
+      "Anguilliformes": 0,
+      "Garfish": 0,
+      "Gadiformes": 0,
+      "Cod": 0,
+      "Hake": 0,
+      "Lake trout": 0,
+      "Lemon sole": 0,
+      "Lumpsucker": 0,
+      "Scombridae": 0,
+      "Norway haddock": 0,
+      "Norway pout": 0,
+      "Pikeperch": 0,
+      "Pleuronectidae": 0,
+      "Pacific ocean perch": 0,
+      "True sole": 0,
+      "Catfish": 0,
+      "Thunnus": 0,
+      "Cichlidae": 0,
+      "Fishes": 0
+    },
+    "Cetaceans": {
+      "Beluga whale": 0,
+      "Bowhead whale": 0,
+      "Cetacea": 0
+    },
+    "Other aquatic foods": {
+      "Tunicate": 0,
+      "Sea cucumber": 0,
+      "Jellyfish": 0,
+      "Green turtle": 0,
+      "Ascidians": 0
+    },
+    "Pinnipeds": {
+      "Spotted seal": 0,
+      "Steller sea lion": 0,
+      "Bearded seal": 0,
+      "Ringed seal": 0,
+      "Walrus": 0,
+      "True seal": 0
+    },
+    "Amphibians": {
+      "True frog": 0
+    },
+    "Fish products": {
+      "Other fish product": 0
+    },
+    "Roe": {
+      "Roe": 0
+    }
+  },
+  "Animal foods": {
+    "Rodents": {
+      "Beaver": 0,
+      "Muskrat": 0,
+      "Squirrel": 0,
+      "Arctic ground squirrel": 0
+    },
+    "Bovines": {
+      "Bison": 0,
+      "Buffalo": 0,
+      "Cattle": 0,
+      "Beef": 0,
+      "Veal": 0,
+      "Beefalo": 0
+    },
+    "Other mammals": {
+      "Black bear": 0,
+      "Brown bear": 0,
+      "Polar bear": 0,
+      "Raccoon": 0
+    },
+    "Swine": {
+      "Wild boar": 0,
+      "Domestic pig": 0
+    },
+    "Venison": {
+      "Caribou": 0,
+      "Mule deer": 0,
+      "Elk": 0,
+      "Moose": 0,
+      "Deer": 0,
+      "Antelope": 0
+    },
+    "Poultry": {
+      "Chicken": 0,
+      "Mallard duck": 0,
+      "Emu": 0,
+      "Greylag goose": 0,
+      "Guinea hen": 0,
+      "Ostrich": 0,
+      "Velvet duck": 0,
+      "Pheasant": 0,
+      "Squab": 0,
+      "Turkey": 0,
+      "Great horned owl": 0,
+      "Quail": 0,
+      "Anatidae": 0,
+      "Rock ptarmigan": 0,
+      "Columbidae": 0,
+      "Dove": 0,
+      "Pigeon": 0
+    },
+    "Equines": {
+      "Horse": 0
+    },
+    "Marsupials": {
+      "Opossum": 0
+    },
+    "Lagomorphs": {
+      "European rabbit": 0,
+      "Rabbit": 0,
+      "Mountain hare": 0
+    },
+    "Ovis": {
+      "Mutton": 0,
+      "Lamb": 0
+    },
+    "Caprae": {
+      "Domestic goat": 0
+    },
+    "Meat products": {
+      "Other meat product": 0
+    },
+    "Animal foods": {
+      "Animal foods": 0
+    }
+  },
+  "Milk and milk products": {
+    "Fermented milk products": {
+      "Cheese": 0,
+      "Yogurt": 0,
+      "Ymer": 0,
+      "Processed cheese": 0
+    },
+    "Unfermented milks": {
+      "Milk": 0,
+      "Human Milk": 0,
+      "Mammals Milk": 0,
+      "Cow milk": 0
+    },
+    "Other milk products": {
+      "Butter": 0,
+      "Cream": 0,
+      "Whey": 0,
+      "Casein": 0,
+      "Dried milk": 0,
+      "Butterfat": 0,
+      "Evaporated milk": 0,
+      "Condensed milk": 0
+    },
+    "Fermented milks": {
+      "Kefir": 0,
+      "Buttermilk": 0,
+      "Other fermented milk": 0
+    },
+    "Milk and milk products": {
+      "Milk and milk products": 0
+    }
+  },
+  "Eggs": {
+    "Eggs": {
+      "Eggs": 0
+    }
+  },
+  "Confectioneries": {
+    "Frozen desserts": {
+      "Ice cream": 0,
+      "Other frozen dessert": 0,
+      "Frozen yogurt": 0,
+      "Milkshake": 0
+    },
+    "Other confectioneries": {
+      "Honey": 0,
+      "Nougat": 0,
+      "Toffee": 0,
+      "Marzipan": 0,
+      "Meringue": 0,
+      "Icing": 0
+    },
+    "Candies": {
+      "Liquorice": 0,
+      "Drag\u00e9e": 0,
+      "Chewing gum": 0,
+      "Marshmallow": 0,
+      "Fruit gum": 0,
+      "Other candy": 0,
+      "Fudge": 0,
+      "Candy bar": 0
+    },
+    "Desserts": {
+      "Cake": 0,
+      "Pastry": 0,
+      "Gelatin dessert": 0,
+      "Pudding": 0,
+      "Pie": 0,
+      "Akutaq": 0,
+      "Chocolate mousse": 0
+    },
+    "Spreads": {
+      "Chocolate spread": 0,
+      "Dulce de leche": 0
+    },
+    "Milk desserts": {
+      "Sweet custard": 0,
+      "Junket": 0
+    }
+  },
+  "Baking goods": {
+    "Seasonings": {
+      "Vinegar": 0,
+      "Salt": 0,
+      "Adobo": 0
+    },
+    "Dressings": {
+      "Salad dressing": 0
+    },
+    "Sauces": {
+      "Sauce": 0
+    },
+    "Substitutes": {
+      "Butter substitute": 0,
+      "Sugar substitute": 0,
+      "Cream substitute": 0,
+      "Coffee substitute": 0,
+      "Egg substitute": 0,
+      "Milk substitute": 0
+    },
+    "Sugars": {
+      "Sugar": 0
+    },
+    "Condiments": {
+      "Mustard": 0,
+      "Remoulade": 0,
+      "Ketchup": 0,
+      "Relish": 0
+    },
+    "Baking goods": {
+      "Meat bouillon": 0,
+      "Leavening agent": 0,
+      "Gelatin": 0,
+      "Syrup": 0,
+      "Topping": 0,
+      "Pectin": 0,
+      "Tapioca pearl": 0,
+      "Spread": 0,
+      "Phyllo dough": 0,
+      "Cooking oil": 0,
+      "Pie filling": 0,
+      "Molasses": 0,
+      "Stuffing": 0
+    },
+    "Wrappers": {
+      "Pie crust": 0,
+      "Ice cream cone": 0,
+      "Wonton wrapper": 0,
+      "Edible shell": 0
+    }
+  },
+  "Dishes": {
+    "Other dishes": {
+      "Pizza": 0,
+      "Dumpling": 0,
+      "Soup": 0,
+      "Baked beans": 0,
+      "Salad": 0,
+      "Stew": 0,
+      "Falafel": 0,
+      "Frybread": 0,
+      "Pancake": 0,
+      "Waffle": 0,
+      "Vegetarian food": 0,
+      "Other dish": 0,
+      "Pot pie": 0
+    },
+    "Ground meat": {
+      "Sausage": 0,
+      "Meatball": 0,
+      "Pate": 0,
+      "Meatloaf": 0,
+      "Cold cut": 0
+    },
+    "Tex-Mex cuisine": {
+      "Burrito": 0,
+      "Chili": 0,
+      "Taco": 0,
+      "Nachos": 0
+    },
+    "Sandwiches": {
+      "Hamburger": 0,
+      "Hot dog": 0,
+      "Other sandwich": 0,
+      "Breakfast sandwich": 0,
+      "Veggie burger": 0,
+      "Fish burger": 0
+    },
+    "Asian cuisine": {
+      "Egg roll": 0,
+      "Rice cake": 0
+    },
+    "Pasta dishes": {
+      "Lasagna": 0,
+      "Macaroni and cheese": 0,
+      "Ravioli": 0,
+      "Other pasta dish": 0
+    },
+    "Berber cuisine": {
+      "Couscous": 0
+    },
+    "Mexican cuisine": {
+      "Chimichanga": 0,
+      "Tostada": 0,
+      "Quesadilla": 0,
+      "Enchilada": 0
+    },
+    "Potato dishes": {
+      "Baked potato": 0,
+      "Potato puffs": 0,
+      "Potato gratin": 0
+    },
+    "American cuisine": {
+      "Hushpuppy": 0,
+      "Scrapple": 0,
+      "Succotash": 0
+    },
+    "Latin American cuisine": {
+      "Tamale": 0,
+      "Pupusa": 0,
+      "Empanada": 0,
+      "Arepa": 0
+    },
+    "Jewish cuisine": {
+      "Gefilte fish": 0
+    },
+    "Levantine cuisine": {
+      "Hummus": 0
+    }
+  },
+  "Snack foods": {
+    "Snack foods": {
+      "Other snack food": 0,
+      "Snack bar": 0,
+      "Popcorn": 0,
+      "Potato chip": 0,
+      "Chips": 0,
+      "Cookies": 0,
+      "Tortilla chip": 0,
+      "Corn chip": 0,
+      "Cracker": 0,
+      "Trail mix": 0
+    }
+  },
+  "Baby foods": {
+    "Baby foods": {
+      "Baby food": 0
+    }
+  },
+  "Unclassified": {
+    "Unclassified": {
+      "Unclassified food or beverage": 0
+    }
+  },
+  "Fats and oils": {
+    "Animal fats": {
+      "Tallow": 0,
+      "Lard": 0,
+      "Other animal fat": 0,
+      "Dripping": 0
+    },
+    "Vegetable fats": {
+      "Shortening": 0,
+      "Margarine": 0,
+      "Margarine-like spread": 0
+    },
+    "Fats and oils": {
+      "Fats and oils": 0
+    }
+  },
+  "Herbs and spices": {
+    "Oilseed crops": {
+      "Canola": 0
+    }
+  }
+}
