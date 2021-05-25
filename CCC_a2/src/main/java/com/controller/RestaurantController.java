@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/infores")
 public class RestaurantController {
 	@Autowired
 	RestaurantService restaurantService;
@@ -28,5 +28,12 @@ public class RestaurantController {
 		ObjectMapper objectMapper = new ObjectMapper();
 		String hotUsersStr = objectMapper.writeValueAsString(restaurantService.getNeighborUsers(res_name, top_n));
 		return hotUsersStr;
+	}
+	
+	@RequestMapping("/restarants")
+	public String getRestaurants() throws JsonProcessingException {
+		ObjectMapper objectMapper = new ObjectMapper();
+		String restaurantsStr = objectMapper.writeValueAsString(restaurantService.getAllRestaurants());
+		return restaurantsStr;
 	}
 }
