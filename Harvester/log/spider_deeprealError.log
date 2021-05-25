@@ -1,0 +1,450 @@
+2021-05-24 07:54:35,320 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:54:59,412 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:55:51,083 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:56:49,714 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:58:21,600 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-24 07:58:35,349 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:59:10,412 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:59:23,549 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 07:59:59,494 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:00:09,830 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:00:29,349 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:03:08,729 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:03:51,745 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:04:57,780 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:05:00,492 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:06:57,797 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:08:44,784 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:46,029 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:47,278 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:48,525 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:49,774 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:51,022 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:52,273 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:53,527 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:54,775 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:56,029 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:57,284 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:58,533 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:08:59,779 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:01,024 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:02,276 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:03,528 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:04,781 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:06,033 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:07,281 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:08,532 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:09,783 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:11,043 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:12,292 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:13,541 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:14,788 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:16,040 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:17,307 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:09:29,697 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:09:47,181 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:10:12,497 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:10:15,951 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:10:35,213 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:10:52,594 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:10:53,762 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:11:14,104 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:11:15,272 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:12:22,512 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:12:43,620 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:13:32,542 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:13:45,731 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:13:49,583 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:14:05,516 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:14:13,516 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:14:14,491 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:15:53,844 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:16:32,031 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:16:33,176 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:18:17,406 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:18:29,211 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:18:59,074 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:19:00,107 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:21:27,866 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:21:59,136 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:22:01,028 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:22:10,378 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:23:07,755 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-24 08:23:11,011 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:12,261 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:13,506 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:14,757 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:16,005 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:17,254 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:18,503 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:19,748 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:20,998 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:22,247 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:23,499 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:24,755 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:26,001 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:27,247 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:28,498 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:29,743 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:30,992 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:32,242 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:33,490 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:34,738 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:35,995 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:37,242 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:38,491 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:39,742 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:40,994 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:42,252 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:43,501 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:44,752 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:45,998 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:47,252 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:48,502 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:49,750 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:50,999 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:52,245 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:53,501 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:54,748 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:56,003 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:57,251 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:58,499 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:23:59,754 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:01,000 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:02,252 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:03,502 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:04,749 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:06,003 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:07,249 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:08,500 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:09,757 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:11,012 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:12,259 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:13,505 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:14,751 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:16,005 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:17,269 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:24:39,323 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:28:16,088 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:28:17,487 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:28:45,637 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:28:52,747 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:29:12,286 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:30:13,577 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:30:36,741 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:35:18,027 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:35:28,457 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:37:07,017 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:37:37,371 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:38:37,154 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:38:40,526 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:38:42,851 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:38:56,026 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:38:57,279 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:38:58,525 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:38:59,771 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:01,019 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:02,274 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:03,520 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:04,767 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:06,022 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:07,277 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:08,524 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:09,770 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:11,019 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:12,269 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:13,516 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:14,765 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:16,009 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:17,255 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:39:27,539 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:39:47,811 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:40:24,693 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:40:30,811 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:00,852 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:05,361 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:06,367 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:12,578 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:21,321 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:34,183 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:41:40,251 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:43:23,188 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:44:47,082 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:45:17,771 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:45:32,004 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:46:26,706 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:47:11,179 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:47:40,155 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:50:16,859 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:50:48,400 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:51:46,282 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:52:34,184 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:53:06,308 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:53:51,146 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:52,399 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:53,649 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:54,896 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:56,142 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:57,389 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:58,644 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:53:59,892 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:01,141 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:02,389 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:03,639 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:04,893 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:06,147 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:07,401 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:08,652 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:09,905 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:11,156 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:12,404 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:13,655 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:14,904 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:16,153 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:54:17,395 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-24 08:55:24,366 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:55:35,708 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:55:44,388 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:56:07,816 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:57:12,772 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 08:57:33,776 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-24 08:59:02,165 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:03:15,570 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:03:56,063 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-24 09:04:29,984 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:05:00,432 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:05:10,495 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:06:16,441 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:07:29,371 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:09:17,343 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:09:39,143 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:09:58,640 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:10:25,438 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:13:42,285 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:16:52,844 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:17:18,466 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:17:25,105 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:19:58,363 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:24:04,664 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:24:18,576 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:29:00,758 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:29:16,952 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:29:48,412 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:33:25,156 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:33:41,457 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:36:23,280 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:37:18,066 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:37:47,627 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:37:51,806 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:37:52,064 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-24 09:37:54,859 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:38:05,363 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:38:12,491 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:38:25,347 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:39:23,556 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:39:32,483 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:39:33,033 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:44:28,650 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:49:21,733 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:50:05,193 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:50:32,259 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:51:11,371 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:54:19,012 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:55:10,938 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:55:36,051 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:56:39,310 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 09:58:45,044 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:00:57,123 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:01:23,784 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:04:05,985 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:05:02,359 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:07:39,360 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:08:06,423 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:09:52,692 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:10:00,856 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:10:58,457 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:11:43,198 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:14:48,187 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:14:49,281 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:15:40,238 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:20:21,953 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:20:57,187 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:21:54,066 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:22:12,099 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:22:37,624 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:23:03,257 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:23:56,887 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:26:38,503 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:28:57,242 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:30:48,270 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:32:00,547 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:36:51,115 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:37:59,150 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:38:21,896 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:38:40,009 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:38:40,787 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:39:19,477 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:39:20,127 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:42:24,700 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:42:29,019 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:43:44,956 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:44:54,767 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:46:33,363 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:47:21,454 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:47:38,699 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:47:41,381 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:47:42,091 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:47:50,213 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:52:09,935 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:52:42,018 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:53:05,980 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:55:02,734 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:56:16,984 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:56:26,712 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:57:03,961 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:57:32,484 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:57:33,200 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:58:34,279 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 10:58:46,278 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:00:47,802 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:02:09,034 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:02:38,853 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:05:23,778 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:06:15,703 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:06:30,089 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:06:33,454 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:06:57,967 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:08:51,873 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:11:23,312 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:11:38,326 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:11:55,888 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:12:18,705 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:12:33,451 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:17:13,277 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:19:56,401 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:21:10,836 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:22:19,759 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:22:35,929 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:23:11,994 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:23:32,780 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:24:19,922 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:24:39,022 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:24:39,678 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:25:22,118 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:25:40,366 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:27:11,280 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:30:51,687 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:30:54,144 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:30:55,672 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:31:12,652 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:32:43,469 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:33:50,085 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:34:24,034 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:36:54,333 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:37:02,633 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:37:25,584 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:38:10,873 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:38:12,935 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:39:12,321 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:39:19,793 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:40:47,221 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:40:58,635 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:41:01,693 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:41:27,903 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:44:16,320 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:44:25,297 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:44:45,758 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:46:32,058 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:47:00,066 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:47:25,160 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:50:19,592 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:51:09,096 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:51:10,076 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:51:58,231 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:53:11,808 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:53:17,652 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:54:57,896 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?max_id=1299585259969937407&user_id=18014488 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-24 11:56:13,594 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:57:12,393 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 11:58:25,040 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:00:36,065 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:00:48,288 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:01:30,727 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:01:57,913 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:02:12,459 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:04:45,161 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:06:38,314 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:07:10,005 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:07:12,197 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:08:11,998 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:09:21,410 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:09:24,023 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:10:48,505 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:11:11,077 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:11:45,522 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:13:14,680 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:14:11,947 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:17:45,066 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:19:36,769 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?max_id=1378100483693277183&user_id=3845305694 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-24 12:22:44,833 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:23:58,139 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:26:36,373 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:28:31,384 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:30:07,704 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:33:55,709 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:34:09,563 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-24 12:35:36,889 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:37:22,213 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:39:19,025 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:41:28,622 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:41:30,455 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:42:19,953 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:42:59,975 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:45:59,316 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:48:04,399 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:51:17,715 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:51:48,165 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:51:51,535 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:52:43,401 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:56:23,653 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:56:56,569 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:57:10,948 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:58:39,270 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 12:59:44,334 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:00:44,854 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:01:43,727 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:01:44,646 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:02:33,951 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:07:45,672 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:07:53,899 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:10:57,293 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:11:25,780 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:11:42,957 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:16:30,480 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:20:43,485 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:21:28,448 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:21:41,347 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:22:01,756 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:22:49,266 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:23:17,018 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:24:13,941 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:26:33,648 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:26:43,464 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:28:34,603 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:29:05,292 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:29:32,251 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:30:29,643 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:32:30,218 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:32:45,311 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:33:19,004 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:33:19,939 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:33:36,444 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:35:28,217 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:36:46,869 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:37:49,113 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:38:17,758 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:38:37,321 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:40:28,882 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:40:29,851 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:40:34,710 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-24 13:40:53,197 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!

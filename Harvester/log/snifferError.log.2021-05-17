@@ -1,0 +1,7 @@
+2021-05-17 10:17:24,496 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))
+2021-05-17 10:22:27,568 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+2021-05-17 10:27:30,633 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+2021-05-17 10:32:33,710 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+2021-05-17 10:37:36,780 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+2021-05-17 10:42:39,849 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+2021-05-18 10:13:23,576 - TweetSniffer.py[line:52] - ERROR: Error code: ('Connection broken: IncompleteRead(2 bytes read)', IncompleteRead(2 bytes read))

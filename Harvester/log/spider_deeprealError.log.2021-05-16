@@ -1,0 +1,803 @@
+2021-05-15 17:40:01,080 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 17:44:07,181 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 17:45:53,174 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 17:50:02,287 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 18:29:39,641 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-15 18:34:06,101 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 18:45:04,832 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 18:53:33,388 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 19:15:31,862 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 19:25:29,598 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 19:26:24,006 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 19:41:21,014 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 19:59:44,655 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 20:10:27,292 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 20:21:55,953 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 20:22:51,441 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 20:34:04,689 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 20:58:24,548 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 20:58:35,883 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 21:00:24,117 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-15 21:13:08,907 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 21:35:59,504 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 21:37:56,516 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 21:49:42,705 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-15 21:51:29,333 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 21:52:17,876 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 22:21:42,470 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 22:42:11,040 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 22:46:54,152 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 22:51:18,275 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 22:51:58,113 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 22:58:52,476 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?max_id=1357784328625811455&user_id=165360773 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-15 23:08:51,666 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:09:06,091 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:19:33,211 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:21:06,990 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:21:25,633 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:32:22,103 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:32:34,134 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:32:57,983 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:37:34,059 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:37:51,174 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-15 23:47:11,817 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:47:56,534 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-15 23:53:22,304 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?max_id=1357863916739588096&user_id=22352939 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-16 00:15:42,947 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 00:24:24,058 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 00:29:48,904 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 00:40:50,229 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 00:58:32,778 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:09:22,723 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:12:29,672 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 01:16:09,025 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:17:07,845 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:17:10,740 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:21:24,020 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:23:39,268 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:24:06,302 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:24:12,407 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:33:12,580 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:42:34,737 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:45:17,019 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:46:18,524 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 01:54:21,243 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:00:03,495 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:05:12,329 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:26:23,115 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:36:07,887 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:37:55,478 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:41:10,735 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 02:54:24,648 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:02:32,828 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:05:30,488 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:09:53,308 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:14:42,364 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:28:53,055 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:32:40,240 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:33:55,035 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:38:01,875 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 03:40:44,580 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:51:02,580 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:51:08,639 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:51:20,612 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:51:40,859 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:53:50,845 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:54:51,895 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:55:08,961 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:58:27,374 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 03:59:23,935 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 04:01:54,275 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:40:09,454 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:40:15,974 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:43:07,597 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:43:57,668 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:45:05,887 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:46:00,340 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:47:48,483 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:48:04,705 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:48:48,127 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:48:52,817 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:52:22,098 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:53:24,272 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:53:36,875 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:38,122 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:39,370 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:40,617 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:41,868 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:43,115 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:44,361 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:45,611 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:46,859 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:48,105 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:49,353 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:50,602 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:51,851 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:53,103 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:54,350 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:55,600 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:56,852 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:58,101 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:53:59,351 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:00,606 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:01,860 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:03,107 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:04,358 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:05,606 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:06,856 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:08,101 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:09,349 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:10,598 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:11,842 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:13,092 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:14,341 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:15,593 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:16,838 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:18,085 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:19,330 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:20,579 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:21,826 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:23,074 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:24,320 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:25,568 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:26,816 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:28,072 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:29,318 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:30,568 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:31,817 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:33,065 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:34,317 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:35,565 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:36,810 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:38,059 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:39,308 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:40,555 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:41,803 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:43,052 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:44,303 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:45,553 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:46,804 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:48,051 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:49,304 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:50,553 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:51,812 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:53,061 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:54:54,310 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 05:55:16,807 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:55:20,360 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:55:32,108 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:56:51,577 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 05:57:21,645 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:01:08,055 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:03:24,436 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:03:39,270 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:08:40,571 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:41,820 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:43,065 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:44,312 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:45,560 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:46,810 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:48,060 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:49,312 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:50,559 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:51,808 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:53,055 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:54,302 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:55,556 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:56,814 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:58,068 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:08:59,321 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:00,567 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:01,816 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:03,067 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:04,313 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:05,562 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:06,809 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:08,060 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:09,306 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:10,557 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:11,805 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:13,051 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:14,297 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:15,542 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:16,790 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:18,038 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:19,288 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:20,538 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:21,788 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:23,034 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:24,283 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:25,531 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:26,783 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:28,030 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:29,278 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:30,526 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:31,771 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:33,019 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:34,265 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:35,518 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:36,767 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:38,015 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:39,263 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:40,509 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:41,755 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:43,001 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:44,253 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:45,508 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:46,757 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:48,006 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:49,254 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:50,500 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:51,745 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:52,991 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:09:54,239 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:18:10,099 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?user_id=777250387 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-16 06:21:18,473 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:24:44,038 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:45,287 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:46,533 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:47,781 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:49,028 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:50,281 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:51,532 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:52,779 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:24:54,023 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:25:28,014 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:27:06,456 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:28:01,814 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:28:09,801 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:31:34,964 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:33:11,009 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?max_id=1371423832125280257&user_id=413935623 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-16 06:37:26,570 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:38:15,360 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:39:26,872 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:39:42,538 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:43,920 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:45,171 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:46,419 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:47,666 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:48,914 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:50,162 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:51,411 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:52,659 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:39:53,906 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:40:11,331 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:40:38,969 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:42:44,041 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:43:14,093 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:43:51,518 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:47:43,892 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:49:43,191 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:53:29,984 - TweetSpider_DeepReal.py[line:59] - ERROR: limit_handled: Stop iteration!
+2021-05-16 06:53:40,326 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:41,577 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:42,822 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:44,075 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:45,322 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:46,568 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:47,815 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:49,068 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:50,319 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:51,566 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:52,815 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:54,063 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:55,312 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:56,558 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:57,804 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:53:59,053 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:00,300 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:01,546 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:02,799 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:04,047 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:05,295 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:06,543 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:07,790 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:09,041 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:10,289 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:11,534 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:12,782 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:14,031 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:15,280 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:16,526 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:17,774 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 06:54:19,021 - TweetSpider_DeepReal.py[line:63] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:22:38,948 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 07:23:21,691 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:24:07,889 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:26:30,080 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:27:39,069 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:28:11,757 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:31:39,474 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:31:46,638 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:31:57,790 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:34:23,330 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:35:46,124 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:36:13,552 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:14,797 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:16,054 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:17,300 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:18,545 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:19,790 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:21,037 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:22,286 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:23,531 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:24,777 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:26,029 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:27,289 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:28,553 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:29,801 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:31,046 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:32,292 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:33,537 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:34,791 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:36,037 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:37,282 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:38,527 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:39,773 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:41,019 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:42,264 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:43,511 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:44,760 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:46,006 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:47,259 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:48,508 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:49,753 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:51,002 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:52,253 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:53,498 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:54,745 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:55,994 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:57,241 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:58,488 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:36:59,735 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:37:00,984 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:37:02,235 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:37:03,481 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:37:04,731 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:37:07,928 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:38:58,405 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:41:18,143 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:47:20,841 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:50:57,249 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:50:58,501 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:50:59,751 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:01,004 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:02,255 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:03,499 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:04,743 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:05,990 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:07,238 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:08,484 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:09,730 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:10,978 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:12,231 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:13,478 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:14,726 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:15,973 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:17,218 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:18,468 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:19,717 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:20,963 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:22,206 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:23,452 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:24,699 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:25,944 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:27,213 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:28,467 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:29,727 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:30,977 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:32,226 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:33,473 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:34,721 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:35,967 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:37,210 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:38,459 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:39,706 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:40,951 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:42,196 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:43,445 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:44,694 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:45,940 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:47,193 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:48,441 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:49,689 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:50,938 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:52,183 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:53,428 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:54,673 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:55,928 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:57,177 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:58,427 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:51:59,681 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:52:00,930 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:52:02,186 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:52:03,439 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:52:04,690 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 07:52:45,137 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:53:03,768 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:53:05,914 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 07:57:22,788 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:00:18,175 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:00:34,243 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:02:00,874 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:02:43,954 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:04:44,642 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:05:00,788 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:06:09,332 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:10,579 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:11,825 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:13,071 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:14,319 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:15,565 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:16,816 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:18,063 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:19,312 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:20,559 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:21,806 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:23,054 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:24,301 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:25,547 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:26,805 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:28,052 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:29,301 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:30,552 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:31,799 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:33,041 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:34,288 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:35,534 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:36,777 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:38,025 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:39,273 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:40,522 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:41,771 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:43,018 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:44,266 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:45,513 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:46,759 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:48,009 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:49,257 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:50,509 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:51,754 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:53,001 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:54,261 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:55,508 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:56,755 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:58,002 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:06:59,249 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:07:00,492 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:07:01,743 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:07:02,987 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:07:04,233 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:07:05,482 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:07:23,761 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 08:08:30,305 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:10:17,433 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:10:22,169 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:12:07,836 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:12:21,958 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:12:54,142 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:14:03,474 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:14:37,181 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:16:12,790 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:17:44,078 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:17:59,553 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:18:07,250 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:18:29,141 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:19:37,283 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:19:37,548 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 08:21:00,506 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:01,752 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:02,997 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:04,244 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:05,493 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:06,740 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:07,992 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:09,244 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:10,490 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:11,736 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:12,997 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:14,244 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:15,494 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:16,741 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:17,986 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:19,235 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:20,485 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:21,734 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:22,985 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:24,230 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:25,479 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:26,735 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:27,985 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:29,235 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:30,481 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:31,734 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:32,984 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:34,242 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:35,501 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:36,747 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:37,999 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:39,248 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:40,497 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:41,745 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:42,993 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:44,242 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:45,486 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:46,737 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:47,982 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:49,238 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:50,492 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:51,744 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:52,992 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:54,244 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:55,492 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:56,745 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:57,991 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:21:59,239 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:22:00,487 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:22:01,737 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:22:02,986 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:22:04,230 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:22:05,475 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:26:10,568 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:26:26,656 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:26:38,866 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 08:30:51,289 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:32:40,468 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:33:32,217 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:33:45,167 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:34:36,221 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:35:01,427 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:35:54,916 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:36:06,145 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:07,392 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:08,639 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:09,892 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:11,138 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:12,388 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:13,641 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:14,890 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:16,134 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:17,379 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:18,626 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:19,876 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:21,126 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:22,374 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:23,622 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:24,871 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:26,131 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:27,400 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:28,646 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:29,905 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:31,160 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:32,409 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:33,661 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:34,908 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:36,159 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:37,407 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:38,653 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:39,899 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:41,146 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:42,395 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:43,643 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:44,891 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:46,138 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:47,384 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:48,629 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:49,883 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:51,133 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:52,384 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:53,634 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:54,880 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:56,132 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:57,380 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:58,626 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:36:59,873 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:37:01,123 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:37:02,371 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:37:03,619 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:37:04,865 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:37:06,113 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:37:50,237 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:38:48,425 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:39:04,279 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:39:57,105 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:40:35,705 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:41:07,928 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:41:54,821 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:42:47,624 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:43:05,740 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 08:47:23,549 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 08:47:44,779 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:47:58,187 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:49:28,114 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:49:58,380 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:51:11,206 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:12,530 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:13,777 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:15,031 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:16,281 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:17,529 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:18,778 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:20,026 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:21,276 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:22,527 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:23,779 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:25,029 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:26,297 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:27,546 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:28,796 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:30,047 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:31,297 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:32,549 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:33,798 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:35,045 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:36,294 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:37,541 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:38,788 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:40,040 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:41,296 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:42,542 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:43,788 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:45,040 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:46,292 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:47,545 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:48,793 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:50,042 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:51,292 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:52,537 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:53,791 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:55,039 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:56,285 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:57,531 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:51:58,780 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:00,030 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:01,280 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:02,534 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:03,783 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:05,029 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:06,279 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 08:52:15,831 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:52:44,010 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:55:16,766 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:55:52,054 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:57:08,683 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 08:57:22,952 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:02:27,180 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:05:11,178 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 09:06:46,805 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:48,051 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:49,297 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:50,544 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:51,794 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:53,049 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:54,302 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:55,555 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:56,807 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:58,060 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:06:59,307 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:07:00,556 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:07:01,801 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:07:03,047 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:07:04,293 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:07:05,540 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:07:06,793 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 429
+2021-05-16 09:09:13,380 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:11:37,562 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:11:40,159 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:14:34,834 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:15:51,025 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:15:56,596 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:16:00,968 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:16:08,196 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:16:09,984 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:16:58,299 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:18:23,031 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:19:54,497 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:21:02,324 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:21:32,295 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:24:52,688 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:26:01,447 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:29:29,003 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:30:11,052 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:36:37,047 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:37:19,092 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:38:53,675 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:39:28,151 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 09:40:17,976 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:40:53,931 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:41:46,154 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:43:30,840 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:45:56,833 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:47:29,862 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:48:05,507 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:50:57,479 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:51:18,088 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:52:29,335 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:53:10,719 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:53:53,644 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:54:42,504 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:54:46,403 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:56:26,352 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:56:54,627 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 09:58:27,911 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?max_id=1386617279178174463&user_id=19274963 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Service Unavailable')))
+2021-05-16 09:59:27,232 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:01:24,525 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:02:01,793 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:05:09,215 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:06:46,871 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:07:04,574 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:08:56,355 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:08:56,614 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 10:09:00,228 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:10:35,604 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:10:39,075 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:14:22,218 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:14:52,929 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:17:10,688 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:19:53,099 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:20:44,369 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:21:13,058 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:21:31,702 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:22:09,274 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:22:43,420 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:25:56,121 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:27:46,012 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:27:55,684 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:28:05,009 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 10:29:14,438 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:30:33,685 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:30:38,453 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:33:18,609 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:34:10,817 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:34:52,219 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:39:39,688 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:40:06,485 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:40:08,341 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:41:20,154 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:43:14,598 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:43:19,482 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:45:58,254 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:46:11,736 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:48:03,557 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:48:22,698 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:48:44,908 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:49:39,307 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:51:00,939 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:51:01,204 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 10:55:18,485 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 10:58:43,209 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:02:35,258 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:02:35,513 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 11:03:29,287 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:06:11,518 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:06:14,422 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:06:15,071 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:09:14,004 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:12:24,294 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:12:35,450 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:12:49,696 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:13:38,993 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:13:51,275 - TweetSpider_DeepOldReal.py[line:64] - ERROR: Error code: Twitter error response: status code = 401
+2021-05-16 11:14:22,984 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:14:33,675 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:14:54,706 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:15:12,371 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:15:21,782 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:19:00,394 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:19:45,085 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:19:47,051 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:20:26,459 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:20:40,620 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:20:54,363 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:23:10,247 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:24:24,542 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:25:42,793 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:26:36,215 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:27:42,572 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:28:21,730 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:30:00,577 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:31:32,601 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:32:17,974 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:32:37,880 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:33:06,412 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
+2021-05-16 11:34:36,272 - TweetSpider_DeepOldReal.py[line:60] - ERROR: limit_handled: Stop iteration!
