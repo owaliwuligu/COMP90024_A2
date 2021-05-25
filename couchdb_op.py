@@ -78,7 +78,9 @@ def upload_doc(database, doc):
     :param doc: the document content as JSON String format
     :return: the upload result returned from CouchDB
     """
-    url = "http://admin:616161@172.26.133.30:5984/"+database+"/"+json.loads(doc)['id']
+    if not json.loads(doc):
+        return None
+    url = "http://admin:616161@172.26.133.30:5984/"+database+"/"+json.loads(doc)['user']['id_str']
     r = requests.put(url, headers={'Content-Type': 'application/json'}, data=doc)
     print("status code: " + str(r.status_code))
     if r.status_code == 201:
@@ -118,6 +120,25 @@ def get_tweet_by_user(database, user_id):
         return None
 
 
+def get_preference(database, user_id):
+    """Get the preference information of target user
+
+    :param database: the target database name
+    :param user_id: the target user id
+    :return: dict with _id, coordinates.coordinates, food_preference, user
+    """
+    url = "http://admin:616161@172.26.133.30:5984/" + database + "/_design/query/_view/get_data"
+    para = '{"startkey": "'+user_id+'", "endkey": "'+user_id+'"}'
+    r = requests.post(url, headers={'Content-Type': 'application/json'}, data=para)
+    print("status code: " + str(r.status_code))
+    if r.status_code == 200:
+        print("Successfully get the preference record.")
+        return r.content
+    else:
+        print("Fail to get the user record.")
+        return None
+
+
 # content = get_tweet_by_user("tweet_data", "907883257802326016")
 # print(content)
 
@@ -127,3 +148,14 @@ def get_tweet_by_user(database, user_id):
 #     res = upload_doc("tweet_data", tweet_data)
 #     print(res)
 #     tweet_data = tweet_data_file.readline()
+
+# content = get_preference("user_food_preference_score", "100143621")
+# print(content)
+
+# tweet_data_file = open("user_food_preference_score.json", mode='r')
+# tweet_data = json.loads(tweet_data_file.read())
+# count = 0
+# for key, value in tweet_data.items():
+#     count += 1
+#     res = upload_doc("user_food_preference_score", json.dumps(value))
+# print(count)
