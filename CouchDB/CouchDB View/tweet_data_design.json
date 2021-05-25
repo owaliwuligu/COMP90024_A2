@@ -1,0 +1,18 @@
+{
+  "_id": "_design/user_query",
+  "_rev": "10-1893c1c3c40532b9b3191f5f7cf5d383",
+  "views": {
+    "user_count": {
+      "reduce": "_count",
+      "map": "function (doc) {\n  emit(doc.user.id_str, 1);\n}"
+    },
+    "user_latest": {
+      "reduce": "function (keys, values, rereduce) {\n    var latest = \"Mon Jan 01 00:00:00 +0000 1000\";\n    for (time in values)\n    {\n        var strs_latest = new Array();\n        strs_latest = latest.split(\" \");\n        var strs_time = new Array();\n        strs_time = values[time].split(\" \");\n        if (strs_latest[7] < strs_time[7])\n        {\n            latest = values[time];\n        }\n        else if (strs_latest[7] == strs_time[7])\n        {\n            var months = [\"Jan\", \"Feb\", \"Mar\", \"Apr\", \"May\", \"Jun\", \"Jul\", \"Aug\", \"Sep\", \"Oct\", \"Nov\", \"Dec\"];\n            if (months.indexOf(strs_latest[1]) < months.indexOf(strs_time[1]))\n            {\n                latest = values[time];\n            }\n            else if (months.indexOf(strs_latest[1]) == months.indexOf(strs_time[1]))\n            {\n                if (strs_latest[2] < strs_time[2])\n                {\n                    latest = values[time];\n                }\n                else if (strs_latest[2] == strs_time[2])\n                {\n                    if (strs_latest[3] < strs_time[3])\n                    {\n                        latest = values[time];\n                    }\n                }\n            }\n        }\n    }\n    return latest;\n}",
+      "map": "function (doc) {\n  emit(doc.user.id_str, doc.created_at);\n}"
+    },
+    "by_user_id": {
+      "map": "function (doc) {\n  emit(doc.user.id_str, doc);\n}"
+    }
+  },
+  "language": "javascript"
+}

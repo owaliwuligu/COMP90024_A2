@@ -1,0 +1,10 @@
+{
+  "_id": "_design/query",
+  "_rev": "1-2a0d256c323e28409038330a4c2c8e77",
+  "views": {
+    "get_data": {
+      "map": "function (doc) {\n  emit(doc.user.id_str, [doc._id,doc.coordinates.coordinates,doc.user,doc.food_preference]);\n}"
+    }
+  },
+  "language": "javascript"
+}
