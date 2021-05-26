@@ -1,0 +1,91 @@
+---
+# Create an instance on NeCTAR
+- name: Create an instance
+  os_server:
+    name: '{{ item.name }}'
+    image: '{{ instance_image }}'
+    key_name: '{{ instance_key_name }}'
+    flavor: '{{ instance_flavor_2c }}'
+    availability_zone: '{{ availability_zone }}'
+    security_groups: '{{ sg_names }}'
+    volumes: '{{ item.volumes }}'
+    auto_floating_ip: yes
+    wait: yes
+    timeout: 600
+    state: present
+  loop: '{{ instances2c}}'
+  register: os_instance
+
+
+
+- debug:
+    msg: "Instance {{ item.openstack.name }} has been created. IP address is {{ item.openstack.public_v4 }}"
+  loop: '{{ os_instance.results }}'
+  when: item.openstack is defined
+
+- name: Wait for connection
+  wait_for:
+    host: "{{ item.openstack.public_v4 }}"
+    port: 22
+    timeout: 120
+    search_regex: OpenSSH
+  loop: '{{ os_instance.results }}'
+  when: item.openstack is defined
+
+- name: store ip address to fact
+  set_fact:
+    ip_addresses: "{{ ip_addresses|default([]) + [ {'name': item.item.name, 'ip': item.openstack.public_v4} ] }}"
+  when: item.openstack is defined
+  loop: '{{os_instance.results}}'
+
+- debug:
+    msg: "| ip_addresses ==> {{ip_addresses}}"
+
+- name: create inventory file
+  file:
+    dest: "{{project_working_directory}}/MRC/inventory/hosts.ini"
+    state: touch
+- name: add ansible_user as ubuntu
+  lineinfile:
+    line: "[all:vars]\nansible_user=ubuntu"
+    dest: "{{project_working_directory}}/MRC/inventory/hosts.ini"
+#- name: store ip address to inventory
+#  lineinfile:
+#    line: "[{{ item.name }}]\n{{ item.ip }}\n"
+#    dest: "{{project_working_directory}}/MRC/inventory/hosts.ini"
+#  loop: '{{ip_addresses}}'
+
+
+- name: Create an instance analysis
+  os_server:
+    name: '{{ item.name }}'
+    image: '{{ instance_image }}'
+    key_name: '{{ instance_key_name }}'
+    flavor: '{{ instance_flavor_1c }}'
+    availability_zone: '{{ availability_zone }}'
+    security_groups: '{{ sg_names }}'
+    volumes: '{{ item.volumes }}'
+    auto_floating_ip: yes
+    wait: yes
+    timeout: 600
+    state: present
+  loop: '{{ instances1c}}'
+  register: os_instance
+
+- name: store ip address to fact
+  set_fact:
+    ip_addresses: "{{ ip_addresses|default([]) + [ {'name': item.item.name, 'ip': item.openstack.public_v4} ] }}"
+  when: item.openstack is defined
+  loop: '{{os_instance.results}}'
+
+- debug:
+    msg: "| ip_addresses ==> {{ip_addresses}}"
+
+- name: store ip address to inventory
+  lineinfile:
+    line: "[{{ item.name }}]\n{{ item.ip }}\n"
+    dest: "{{project_working_directory}}/MRC/inventory/hosts.ini"
+    state: present
+  loop: '{{ip_addresses}}'
+  register: hosts_file
+

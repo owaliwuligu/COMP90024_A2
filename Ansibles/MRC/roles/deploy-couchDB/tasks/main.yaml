@@ -1,0 +1,17 @@
+- name: Install couchDB 1
+  raw: sudo apt update && sudo apt install -y curl apt-transport-https gnupg
+
+- name: Install couchDB 2
+  raw: curl https://couchdb.apache.org/repo/keys.asc | gpg --dearmor | sudo tee /usr/share/keyrings/couchdb-archive-keyring.gpg >/dev/null 2>&1
+
+- name: Install couchDB 3
+  raw: source /etc/os-release
+
+- name: Install couchDB 4
+  raw: echo "deb [signed-by=/usr/share/keyrings/couchdb-archive-keyring.gpg] https://apache.jfrog.io/artifactory/couchdb-deb/ focal main" | sudo tee /etc/apt/sources.list.d/couchdb.list >/dev/null
+
+- name: Install couchDB 5
+  become: yes
+  apt:
+    update_cache: yes
+    name: couchdb

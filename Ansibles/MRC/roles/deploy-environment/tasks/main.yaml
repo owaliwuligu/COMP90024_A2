@@ -1,0 +1,39 @@
+- name: add proxy to environments
+  become: yes
+  lineinfile:
+    line: "HTTP_PROXY=\"http://wwwproxy.unimelb.edu.au:8000/\"\nHTTPS_PROXY=\"http://wwwproxy.unimelb.edu.au:8000/\"\nhttp_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nhttps_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nftp_proxy=\"http://wwwproxy.unimelb.edu.au:8000/\"\nno_proxy=\"localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbourne.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au\"\n"
+    dest: /etc/environment
+
+- name: update all apt packages
+  become: yes
+  apt:
+    update_cache: yes
+    upgrade: yes
+    force_apt_get: yes
+
+- name: install necessary dependencies
+  become: yes
+  apt:
+    name: ['vim', 'unzip', 'git', 'python3-pip', 'curl', 'libicu-dev','libcurl4-openssl-dev','erlang','pkg-config','build-essential']
+    state: latest
+    update_cache: yes
+
+- name: create /data directory
+  become: yes
+  file:
+    path: /data
+    state: directory
+
+- name: Format volume
+  filesystem:
+    fstype: ext4
+    dev: "/dev/vdb"
+  become: true
+
+- name: Mount
+  mount:
+    path: "/data"
+    src: "/dev/vdb"
+    fstype: ext4
+    state: mounted
+  become: true
