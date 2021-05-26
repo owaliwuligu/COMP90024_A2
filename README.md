@@ -1,12 +1,12 @@
 # COMP90024_A2
 Task : 
-  Cluster	and	Cloud	Computing	Assignment	2	-	City	Analytics	on	the	Cloud
+    Cluster	and	Cloud	Computing	Assignment	2	-	City	Analytics	on	the	Cloud
 Title:
-  vicFoodie
+    vicFoodie
 Video:
-  https://www.youtube.com/watch?v=l-dD9ifIqnU
-  https://www.youtube.com/watch?v=TJZ4j1viZbE
-  https://www.youtube.com/watch?v=ALD2VgHdxb8
+    https://www.youtube.com/watch?v=l-dD9ifIqnU
+    https://www.youtube.com/watch?v=TJZ4j1viZbE
+    https://www.youtube.com/watch?v=ALD2VgHdxb8
 
 Five Modules
 1. Ansibles
