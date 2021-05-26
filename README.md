@@ -1,4 +1,3 @@
-# COMP90024_A2
 Task : 
     Cluster	and	Cloud	Computing	Assignment	2	-	City	Analytics	on	the	Cloud
 Title:
