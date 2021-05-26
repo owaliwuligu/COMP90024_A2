@@ -1,0 +1,53 @@
+.App {
+  color: #fffffe;
+  max-width: 100%;
+  text-align: center;
+  height: auto;
+}
+
+.home_header {
+  background-color: black;
+  text-align: right;
+  color: #fffffe;
+  padding: 30px;
+  flex: 0 0 auto;
+}
+
+.home_content {
+  background-color: black;
+}
+
+.footer {
+  background-color: black;
+  color: #fffffe;
+  line-height: 50px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 40px;
+  flex: 0 0 auto;
+  bottom: 0;
+}
+
+.bg_img{
+  width: 100%;
+  height: auto;
+  z-index: 1;
+  display: flex;
+}
+
+
+.wd{
+  width:11em;
+  text-align: center;
+  border:2px solid white;
+  word-wrap:break-word;
+}
+
+
+.router_btn{
+  color: #fffffe;
+  line-height: 50px;
+  display: flex;
+  align-items: center;
+}

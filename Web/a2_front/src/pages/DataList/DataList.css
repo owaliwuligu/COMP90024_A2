@@ -1,0 +1,55 @@
+.data-list{
+    width: 100vw;
+    height: 100vh;
+    background-color: #282c34;
+    color: deepskyblue;
+    z-index: 100;
+    position: relative;
+}
+
+.link_style {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 12px;
+  background-color: #404040;
+  color: #ffffff;
+  z-index: 10 !important;
+  padding: 6px;
+  font-weight: bold;
+}
+
+.data_header {
+  background-color: black;
+  text-align: right;
+  font-size: 20px;
+  color: #fffffe;
+  padding: 25px;
+  flex: 0 0 auto;
+}
+
+.data_box {
+    width: 100vm;
+    height: 800px;
+}
+
+.column {
+  float: left;
+}
+
+.column.left {
+  width: 75%;
+  display: inline-block;
+}
+
+.column.right {
+  width: 25%;
+  display: inline-block;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}

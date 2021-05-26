@@ -1,0 +1,4525 @@
+{
+    "name": "Food",
+    "children": [
+        {
+            "name": "Herbs and spices",
+            "value": 462,
+            "children": [
+                {
+                    "name": "Oilseed crops",
+                    "value": 462,
+                    "children": [
+                        {
+                            "name": "Canola",
+                            "value": 462
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Confectioneries",
+            "value": 3131,
+            "children": [
+                {
+                    "name": "Milk desserts",
+                    "value": 14,
+                    "children": [
+                        {
+                            "name": "Sweet custard",
+                            "value": 0
+                        },
+                        {
+                            "name": "Junket",
+                            "value": 14
+                        }
+                    ]
+                },
+                {
+                    "name": "Candies",
+                    "value": 115,
+                    "children": [
+                        {
+                            "name": "Liquorice",
+                            "value": 11
+                        },
+                        {
+                            "name": "Dragée",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fruit gum",
+                            "value": 1
+                        },
+                        {
+                            "name": "Marshmallow",
+                            "value": 44
+                        },
+                        {
+                            "name": "Other candy",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chewing gum",
+                            "value": 10
+                        },
+                        {
+                            "name": "Fudge",
+                            "value": 46
+                        },
+                        {
+                            "name": "Candy bar",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Spreads",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Dulce de leche",
+                            "value": 2
+                        },
+                        {
+                            "name": "Chocolate spread",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Frozen desserts",
+                    "value": 614,
+                    "children": [
+                        {
+                            "name": "Frozen yogurt",
+                            "value": 0
+                        },
+                        {
+                            "name": "Milkshake",
+                            "value": 235
+                        },
+                        {
+                            "name": "Other frozen dessert",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ice cream",
+                            "value": 379
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "value": 1704,
+                    "children": [
+                        {
+                            "name": "Pie",
+                            "value": 534
+                        },
+                        {
+                            "name": "Chocolate mousse",
+                            "value": 15
+                        },
+                        {
+                            "name": "Pudding",
+                            "value": 112
+                        },
+                        {
+                            "name": "Pastry",
+                            "value": 96
+                        },
+                        {
+                            "name": "Gelatin dessert",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cake",
+                            "value": 947
+                        },
+                        {
+                            "name": "Akutaq",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Other confectioneries",
+                    "value": 681,
+                    "children": [
+                        {
+                            "name": "Icing",
+                            "value": 55
+                        },
+                        {
+                            "name": "Marzipan",
+                            "value": 10
+                        },
+                        {
+                            "name": "Honey",
+                            "value": 568
+                        },
+                        {
+                            "name": "Meringue",
+                            "value": 20
+                        },
+                        {
+                            "name": "Nougat",
+                            "value": 4
+                        },
+                        {
+                            "name": "Toffee",
+                            "value": 24
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dishes",
+            "value": 2714,
+            "children": [
+                {
+                    "name": "Mexican cuisine",
+                    "value": 7,
+                    "children": [
+                        {
+                            "name": "Enchilada",
+                            "value": 1
+                        },
+                        {
+                            "name": "Quesadilla",
+                            "value": 6
+                        },
+                        {
+                            "name": "Tostada",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chimichanga",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Asian cuisine",
+                    "value": 15,
+                    "children": [
+                        {
+                            "name": "Egg roll",
+                            "value": 9
+                        },
+                        {
+                            "name": "Rice cake",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "American cuisine",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Succotash",
+                            "value": 0
+                        },
+                        {
+                            "name": "Hushpuppy",
+                            "value": 0
+                        },
+                        {
+                            "name": "Scrapple",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Berber cuisine",
+                    "value": 6,
+                    "children": [
+                        {
+                            "name": "Couscous",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Other dishes",
+                    "value": 1816,
+                    "children": [
+                        {
+                            "name": "Vegetarian food",
+                            "value": 8
+                        },
+                        {
+                            "name": "Salad",
+                            "value": 378
+                        },
+                        {
+                            "name": "Dumpling",
+                            "value": 32
+                        },
+                        {
+                            "name": "Waffle",
+                            "value": 59
+                        },
+                        {
+                            "name": "Soup",
+                            "value": 352
+                        },
+                        {
+                            "name": "Other dish",
+                            "value": 3
+                        },
+                        {
+                            "name": "Stew",
+                            "value": 60
+                        },
+                        {
+                            "name": "Pancake",
+                            "value": 83
+                        },
+                        {
+                            "name": "Falafel",
+                            "value": 17
+                        },
+                        {
+                            "name": "Baked beans",
+                            "value": 19
+                        },
+                        {
+                            "name": "Pot pie",
+                            "value": 5
+                        },
+                        {
+                            "name": "Frybread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pizza",
+                            "value": 800
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta dishes",
+                    "value": 73,
+                    "children": [
+                        {
+                            "name": "Other pasta dish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lasagna",
+                            "value": 41
+                        },
+                        {
+                            "name": "Macaroni and cheese",
+                            "value": 1
+                        },
+                        {
+                            "name": "Ravioli",
+                            "value": 31
+                        }
+                    ]
+                },
+                {
+                    "name": "Levantine cuisine",
+                    "value": 46,
+                    "children": [
+                        {
+                            "name": "Hummus",
+                            "value": 46
+                        }
+                    ]
+                },
+                {
+                    "name": "Jewish cuisine",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Gefilte fish",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches",
+                    "value": 112,
+                    "children": [
+                        {
+                            "name": "Hamburger",
+                            "value": 28
+                        },
+                        {
+                            "name": "Hot dog",
+                            "value": 71
+                        },
+                        {
+                            "name": "Breakfast sandwich",
+                            "value": 3
+                        },
+                        {
+                            "name": "Fish burger",
+                            "value": 3
+                        },
+                        {
+                            "name": "Other sandwich",
+                            "value": 1
+                        },
+                        {
+                            "name": "Veggie burger",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Latin American cuisine",
+                    "value": 2,
+                    "children": [
+                        {
+                            "name": "Tamale",
+                            "value": 2
+                        },
+                        {
+                            "name": "Empanada",
+                            "value": 0
+                        },
+                        {
+                            "name": "Arepa",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pupusa",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Ground meat",
+                    "value": 359,
+                    "children": [
+                        {
+                            "name": "Cold cut",
+                            "value": 2
+                        },
+                        {
+                            "name": "Sausage",
+                            "value": 300
+                        },
+                        {
+                            "name": "Meatloaf",
+                            "value": 21
+                        },
+                        {
+                            "name": "Pate",
+                            "value": 15
+                        },
+                        {
+                            "name": "Meatball",
+                            "value": 21
+                        }
+                    ]
+                },
+                {
+                    "name": "Potato dishes",
+                    "value": 16,
+                    "children": [
+                        {
+                            "name": "Potato puffs",
+                            "value": 0
+                        },
+                        {
+                            "name": "Baked potato",
+                            "value": 13
+                        },
+                        {
+                            "name": "Potato gratin",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Tex-Mex cuisine",
+                    "value": 262,
+                    "children": [
+                        {
+                            "name": "Chili",
+                            "value": 45
+                        },
+                        {
+                            "name": "Burrito",
+                            "value": 40
+                        },
+                        {
+                            "name": "Nachos",
+                            "value": 62
+                        },
+                        {
+                            "name": "Taco",
+                            "value": 115
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vegetables",
+            "value": 2621,
+            "children": [
+                {
+                    "name": "Shoot vegetables",
+                    "value": 32,
+                    "children": [
+                        {
+                            "name": "Asparagus",
+                            "value": 31
+                        },
+                        {
+                            "name": "American pokeweed",
+                            "value": 0
+                        },
+                        {
+                            "name": "Globe artichoke",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bamboo shoots",
+                            "value": 1
+                        },
+                        {
+                            "name": "Cardoon",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Cabbages",
+                    "value": 289,
+                    "children": [
+                        {
+                            "name": "Common cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oxheart cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Savoy cabbage",
+                            "value": 1
+                        },
+                        {
+                            "name": "Cauliflower",
+                            "value": 65
+                        },
+                        {
+                            "name": "Mustard spinach",
+                            "value": 0
+                        },
+                        {
+                            "name": "Kai-lan",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rapini",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chinese mustard",
+                            "value": 1
+                        },
+                        {
+                            "name": "White cabbage",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pak choy",
+                            "value": 1
+                        },
+                        {
+                            "name": "Brussel sprouts",
+                            "value": 12
+                        },
+                        {
+                            "name": "Chinese cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tronchuda cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chinese broccoli",
+                            "value": 0
+                        },
+                        {
+                            "name": "Napa cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cabbage",
+                            "value": 53
+                        },
+                        {
+                            "name": "Broccoli",
+                            "value": 86
+                        },
+                        {
+                            "name": "Komatsuna",
+                            "value": 0
+                        },
+                        {
+                            "name": "Kale",
+                            "value": 69
+                        }
+                    ]
+                },
+                {
+                    "name": "Brassicas",
+                    "value": 22,
+                    "children": [
+                        {
+                            "name": "Brassicas",
+                            "value": 22
+                        }
+                    ]
+                },
+                {
+                    "name": "Leaf vegetables",
+                    "value": 191,
+                    "children": [
+                        {
+                            "name": "Lambsquarters",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common beet",
+                            "value": 0
+                        },
+                        {
+                            "name": "Endive",
+                            "value": 0
+                        },
+                        {
+                            "name": "New Zealand spinach",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spinach",
+                            "value": 80
+                        },
+                        {
+                            "name": "Garden cress",
+                            "value": 0
+                        },
+                        {
+                            "name": "Malabar spinach",
+                            "value": 0
+                        },
+                        {
+                            "name": "Swamp cabbage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rocket salad",
+                            "value": 6
+                        },
+                        {
+                            "name": "Lettuce",
+                            "value": 94
+                        },
+                        {
+                            "name": "Swiss chard",
+                            "value": 2
+                        },
+                        {
+                            "name": "Chicory leaves",
+                            "value": 0
+                        },
+                        {
+                            "name": "Garland chrysanthemum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Romaine lettuce",
+                            "value": 1
+                        },
+                        {
+                            "name": "Ostrich fern",
+                            "value": 0
+                        },
+                        {
+                            "name": "Yautia",
+                            "value": 0
+                        },
+                        {
+                            "name": "Jute",
+                            "value": 5
+                        },
+                        {
+                            "name": "Corn salad",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Mushrooms",
+                    "value": 314,
+                    "children": [
+                        {
+                            "name": "Maitake",
+                            "value": 0
+                        },
+                        {
+                            "name": "Morchella",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oyster mushroom",
+                            "value": 2
+                        },
+                        {
+                            "name": "Shiitake",
+                            "value": 4
+                        },
+                        {
+                            "name": "Chanterelle",
+                            "value": 1
+                        },
+                        {
+                            "name": "Cloud ear fungus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Jew's ear",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common mushroom",
+                            "value": 0
+                        },
+                        {
+                            "name": "Enokitake",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mushrooms",
+                            "value": 307
+                        }
+                    ]
+                },
+                {
+                    "name": "Other vegetables",
+                    "value": 28,
+                    "children": [
+                        {
+                            "name": "Horseradish tree",
+                            "value": 0
+                        },
+                        {
+                            "name": "Okra",
+                            "value": 10
+                        },
+                        {
+                            "name": "Narrowleaf cattail",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sesbania flower",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sacred lotus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chinese water chestnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Agave",
+                            "value": 7
+                        },
+                        {
+                            "name": "Carob",
+                            "value": 5
+                        },
+                        {
+                            "name": "Heart of palm",
+                            "value": 0
+                        },
+                        {
+                            "name": "Giant butterbur",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tree fern",
+                            "value": 6
+                        },
+                        {
+                            "name": "Nopal",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Green vegetables",
+                    "value": 1,
+                    "children": [
+                        {
+                            "name": "Green vegetables",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Root vegetables",
+                    "value": 374,
+                    "children": [
+                        {
+                            "name": "Black radish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common salsify",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oregon yampah",
+                            "value": 0
+                        },
+                        {
+                            "name": "Taro",
+                            "value": 8
+                        },
+                        {
+                            "name": "Burdock",
+                            "value": 0
+                        },
+                        {
+                            "name": "Kohlrabi",
+                            "value": 1
+                        },
+                        {
+                            "name": "Prairie turnip",
+                            "value": 0
+                        },
+                        {
+                            "name": "Radish",
+                            "value": 166
+                        },
+                        {
+                            "name": "Celeriac",
+                            "value": 8
+                        },
+                        {
+                            "name": "Parsnip",
+                            "value": 7
+                        },
+                        {
+                            "name": "Chicory",
+                            "value": 12
+                        },
+                        {
+                            "name": "Wild carrot",
+                            "value": 0
+                        },
+                        {
+                            "name": "Carrot",
+                            "value": 163
+                        },
+                        {
+                            "name": "Alpine sweetvetch",
+                            "value": 0
+                        },
+                        {
+                            "name": "Thistle",
+                            "value": 6
+                        },
+                        {
+                            "name": "Root vegetables",
+                            "value": 2
+                        },
+                        {
+                            "name": "Daikon radish",
+                            "value": 1
+                        },
+                        {
+                            "name": "Jicama",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chicory roots",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black salsify",
+                            "value": 0
+                        },
+                        {
+                            "name": "Red beetroot",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Vegetable products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Other vegetable product",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fruit vegetables",
+                    "value": 755,
+                    "children": [
+                        {
+                            "name": "Frutescens",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pepper",
+                            "value": 336
+                        },
+                        {
+                            "name": "Yellow bell pepper",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mexican groundcherry",
+                            "value": 0
+                        },
+                        {
+                            "name": "baccatum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Groundcherry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian sweet red pepper",
+                            "value": 0
+                        },
+                        {
+                            "name": "Avocado",
+                            "value": 112
+                        },
+                        {
+                            "name": "Pubescens",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cherry tomato",
+                            "value": 37
+                        },
+                        {
+                            "name": "Red bell pepper",
+                            "value": 0
+                        },
+                        {
+                            "name": "chinense Pepper",
+                            "value": 0
+                        },
+                        {
+                            "name": "Eggplant",
+                            "value": 72
+                        },
+                        {
+                            "name": "Capsicum",
+                            "value": 26
+                        },
+                        {
+                            "name": "Olive",
+                            "value": 172
+                        },
+                        {
+                            "name": "Green bell pepper",
+                            "value": 0
+                        },
+                        {
+                            "name": "Orange bell pepper",
+                            "value": 0
+                        },
+                        {
+                            "name": "Garden tomato",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Onion-family vegetables",
+                    "value": 39,
+                    "children": [
+                        {
+                            "name": "Shallot",
+                            "value": 4
+                        },
+                        {
+                            "name": "Allium",
+                            "value": 0
+                        },
+                        {
+                            "name": "Wild leek",
+                            "value": 0
+                        },
+                        {
+                            "name": "Garden onion",
+                            "value": 0
+                        },
+                        {
+                            "name": "Onion-family vegetables",
+                            "value": 0
+                        },
+                        {
+                            "name": "Leek",
+                            "value": 35
+                        }
+                    ]
+                },
+                {
+                    "name": "Tubers",
+                    "value": 576,
+                    "children": [
+                        {
+                            "name": "Arrowhead",
+                            "value": 0
+                        },
+                        {
+                            "name": "Jerusalem artichoke",
+                            "value": 4
+                        },
+                        {
+                            "name": "Potato",
+                            "value": 491
+                        },
+                        {
+                            "name": "Mountain yam",
+                            "value": 0
+                        },
+                        {
+                            "name": "Yam",
+                            "value": 19
+                        },
+                        {
+                            "name": "Arrowroot",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sweet potato",
+                            "value": 56
+                        },
+                        {
+                            "name": "Cassava",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Stalk vegetables",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Celery stalks",
+                            "value": 0
+                        },
+                        {
+                            "name": "Garden rhubarb",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alaska wild rhubarb",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Nuts",
+            "value": 1214,
+            "children": [
+                {
+                    "name": "Nuts",
+                    "value": 1214,
+                    "children": [
+                        {
+                            "name": "Chinese chestnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Peanut",
+                            "value": 203
+                        },
+                        {
+                            "name": "Nuts",
+                            "value": 669
+                        },
+                        {
+                            "name": "Pecan nut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Walnut",
+                            "value": 31
+                        },
+                        {
+                            "name": "Pili nut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Colorado pinyon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chestnut",
+                            "value": 47
+                        },
+                        {
+                            "name": "Pine nut",
+                            "value": 9
+                        },
+                        {
+                            "name": "Common walnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cashew nut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Acorn",
+                            "value": 12
+                        },
+                        {
+                            "name": "Hazelnut",
+                            "value": 27
+                        },
+                        {
+                            "name": "Japanese chestnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mixed nuts",
+                            "value": 0
+                        },
+                        {
+                            "name": "Macadamia nut",
+                            "value": 4
+                        },
+                        {
+                            "name": "Japanese walnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pistachio",
+                            "value": 34
+                        },
+                        {
+                            "name": "Common hazelnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Hickory nut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Beech nut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Brazil nut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Almond",
+                            "value": 165
+                        },
+                        {
+                            "name": "Black walnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "European chestnut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Butternut",
+                            "value": 13
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Snack foods",
+            "value": 1825,
+            "children": [
+                {
+                    "name": "Snack foods",
+                    "value": 1825,
+                    "children": [
+                        {
+                            "name": "Cookies",
+                            "value": 334
+                        },
+                        {
+                            "name": "Corn chip",
+                            "value": 14
+                        },
+                        {
+                            "name": "Cracker",
+                            "value": 307
+                        },
+                        {
+                            "name": "Snack bar",
+                            "value": 5
+                        },
+                        {
+                            "name": "Popcorn",
+                            "value": 138
+                        },
+                        {
+                            "name": "Tortilla chip",
+                            "value": 4
+                        },
+                        {
+                            "name": "Trail mix",
+                            "value": 1
+                        },
+                        {
+                            "name": "Other snack food",
+                            "value": 1
+                        },
+                        {
+                            "name": "Potato chip",
+                            "value": 21
+                        },
+                        {
+                            "name": "Chips",
+                            "value": 1000
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gourds",
+            "value": 147,
+            "children": [
+                {
+                    "name": "Gourds",
+                    "value": 147,
+                    "children": [
+                        {
+                            "name": "Sunburst squash",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tinda",
+                            "value": 0
+                        },
+                        {
+                            "name": "Butternut squash",
+                            "value": 2
+                        },
+                        {
+                            "name": "Towel gourd",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chayote",
+                            "value": 0
+                        },
+                        {
+                            "name": "Wax gourd",
+                            "value": 0
+                        },
+                        {
+                            "name": "Horned melon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Yellow zucchini",
+                            "value": 0
+                        },
+                        {
+                            "name": "Winter squash",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cucumber",
+                            "value": 73
+                        },
+                        {
+                            "name": "Green zucchini",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bitter gourd",
+                            "value": 0
+                        },
+                        {
+                            "name": "Muskmelon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Watermelon",
+                            "value": 72
+                        },
+                        {
+                            "name": "Cucurbita",
+                            "value": 0
+                        },
+                        {
+                            "name": "Calabash",
+                            "value": 0
+                        },
+                        {
+                            "name": "Japanese pumpkin",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Herbs and Spices",
+            "value": 2121,
+            "children": [
+                {
+                    "name": "Herbs and Spices",
+                    "value": 12,
+                    "children": [
+                        {
+                            "name": "Herbs and Spices",
+                            "value": 12
+                        }
+                    ]
+                },
+                {
+                    "name": "Oilseed crops",
+                    "value": 234,
+                    "children": [
+                        {
+                            "name": "Safflower",
+                            "value": 5
+                        },
+                        {
+                            "name": "Shea tree",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sunflower",
+                            "value": 50
+                        },
+                        {
+                            "name": "Babassu palm",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cottonseed",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sago palm",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sesame",
+                            "value": 56
+                        },
+                        {
+                            "name": "Evening primrose",
+                            "value": 1
+                        },
+                        {
+                            "name": "Oil palm",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cupuaçu",
+                            "value": 0
+                        },
+                        {
+                            "name": "Borage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Poppy",
+                            "value": 122
+                        },
+                        {
+                            "name": "Flaxseed",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oil-seed Camellia",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ucuhuba",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Herbs",
+                    "value": 722,
+                    "children": [
+                        {
+                            "name": "Angelica",
+                            "value": 9
+                        },
+                        {
+                            "name": "Mentha",
+                            "value": 0
+                        },
+                        {
+                            "name": "Hyssop",
+                            "value": 0
+                        },
+                        {
+                            "name": "Italian oregano",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tarragon",
+                            "value": 5
+                        },
+                        {
+                            "name": "Common oregano",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lemon verbena",
+                            "value": 0
+                        },
+                        {
+                            "name": "Roman camomile",
+                            "value": 1
+                        },
+                        {
+                            "name": "Parsley",
+                            "value": 43
+                        },
+                        {
+                            "name": "Summer savory",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sweet bay",
+                            "value": 0
+                        },
+                        {
+                            "name": "Amaranth",
+                            "value": 1
+                        },
+                        {
+                            "name": "Common thyme",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rose hip",
+                            "value": 0
+                        },
+                        {
+                            "name": "Small-leaf linden",
+                            "value": 0
+                        },
+                        {
+                            "name": "Celery leaves",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fireweed",
+                            "value": 2
+                        },
+                        {
+                            "name": "Linden",
+                            "value": 46
+                        },
+                        {
+                            "name": "Fenugreek",
+                            "value": 1
+                        },
+                        {
+                            "name": "Chives",
+                            "value": 5
+                        },
+                        {
+                            "name": "Lemon balm",
+                            "value": 1
+                        },
+                        {
+                            "name": "Dandelion",
+                            "value": 5
+                        },
+                        {
+                            "name": "Dock",
+                            "value": 102
+                        },
+                        {
+                            "name": "Roselle",
+                            "value": 1
+                        },
+                        {
+                            "name": "Epazote",
+                            "value": 0
+                        },
+                        {
+                            "name": "Garlic",
+                            "value": 222
+                        },
+                        {
+                            "name": "Sourdock",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mexican oregano",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sweet basil",
+                            "value": 0
+                        },
+                        {
+                            "name": "Watercress",
+                            "value": 2
+                        },
+                        {
+                            "name": "Chinese chives",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spearmint",
+                            "value": 2
+                        },
+                        {
+                            "name": "Coriander",
+                            "value": 28
+                        },
+                        {
+                            "name": "Alfalfa",
+                            "value": 3
+                        },
+                        {
+                            "name": "Lovage",
+                            "value": 5
+                        },
+                        {
+                            "name": "Anise",
+                            "value": 5
+                        },
+                        {
+                            "name": "Common verbena",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lemon thyme",
+                            "value": 2
+                        },
+                        {
+                            "name": "Peppermint",
+                            "value": 23
+                        },
+                        {
+                            "name": "Cornmint",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sorrel",
+                            "value": 4
+                        },
+                        {
+                            "name": "Orange mint",
+                            "value": 0
+                        },
+                        {
+                            "name": "German camomile",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tea leaf willow",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sweet marjoram",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common sage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rosemary",
+                            "value": 87
+                        },
+                        {
+                            "name": "Winter savory",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lemon grass",
+                            "value": 0
+                        },
+                        {
+                            "name": "Dill",
+                            "value": 63
+                        },
+                        {
+                            "name": "Mugwort",
+                            "value": 0
+                        },
+                        {
+                            "name": "Teff",
+                            "value": 10
+                        },
+                        {
+                            "name": "Soft-necked garlic",
+                            "value": 0
+                        },
+                        {
+                            "name": "Purslane",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fennel",
+                            "value": 24
+                        },
+                        {
+                            "name": "Turnip",
+                            "value": 20
+                        },
+                        {
+                            "name": "Yellow pond-lily",
+                            "value": 0
+                        },
+                        {
+                            "name": "Welsh onion",
+                            "value": 0
+                        },
+                        {
+                            "name": "Silver linden",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pineappple sage",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pot marjoram",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Herb and spice mixtures",
+                    "value": 6,
+                    "children": [
+                        {
+                            "name": "Curry powder",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Other seeds",
+                    "value": 142,
+                    "children": [
+                        {
+                            "name": "Lotus",
+                            "value": 87
+                        },
+                        {
+                            "name": "Hedge mustard",
+                            "value": 0
+                        },
+                        {
+                            "name": "Quinoa",
+                            "value": 25
+                        },
+                        {
+                            "name": "Rowal",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ginkgo nuts",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chia",
+                            "value": 30
+                        },
+                        {
+                            "name": "Breadnut tree seed",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Spices",
+                    "value": 1005,
+                    "children": [
+                        {
+                            "name": "Wild celery",
+                            "value": 0
+                        },
+                        {
+                            "name": "Saffron",
+                            "value": 34
+                        },
+                        {
+                            "name": "Horseradish",
+                            "value": 9
+                        },
+                        {
+                            "name": "Ceylon cinnamon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cloves",
+                            "value": 21
+                        },
+                        {
+                            "name": "Pepper",
+                            "value": 336
+                        },
+                        {
+                            "name": "Cardamom",
+                            "value": 7
+                        },
+                        {
+                            "name": "Wasabi",
+                            "value": 62
+                        },
+                        {
+                            "name": "Capers",
+                            "value": 26
+                        },
+                        {
+                            "name": "Chinese cinnamon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Caraway",
+                            "value": 2
+                        },
+                        {
+                            "name": "Vanilla",
+                            "value": 159
+                        },
+                        {
+                            "name": "Cumin",
+                            "value": 3
+                        },
+                        {
+                            "name": "Nutmeg",
+                            "value": 32
+                        },
+                        {
+                            "name": "Cinnamon",
+                            "value": 85
+                        },
+                        {
+                            "name": "Opium poppy",
+                            "value": 1
+                        },
+                        {
+                            "name": "Turmeric",
+                            "value": 10
+                        },
+                        {
+                            "name": "Star anise",
+                            "value": 2
+                        },
+                        {
+                            "name": "Allspice",
+                            "value": 1
+                        },
+                        {
+                            "name": "Ginseng",
+                            "value": 1
+                        },
+                        {
+                            "name": "Chervil",
+                            "value": 1
+                        },
+                        {
+                            "name": "White mustard",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ginger",
+                            "value": 213
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Eggs",
+            "value": 1302,
+            "children": [
+                {
+                    "name": "Eggs",
+                    "value": 1302,
+                    "children": [
+                        {
+                            "name": "Eggs",
+                            "value": 1302
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Beverages",
+            "value": 9170,
+            "children": [
+                {
+                    "name": "Other beverages",
+                    "value": 58,
+                    "children": [
+                        {
+                            "name": "Horchata",
+                            "value": 2
+                        },
+                        {
+                            "name": "Vegetable juice",
+                            "value": 2
+                        },
+                        {
+                            "name": "Fruit-flavor drink",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fruit juice",
+                            "value": 10
+                        },
+                        {
+                            "name": "Other beverage",
+                            "value": 1
+                        },
+                        {
+                            "name": "Soft drink",
+                            "value": 43
+                        }
+                    ]
+                },
+                {
+                    "name": "Fermented beverages",
+                    "value": 2863,
+                    "children": [
+                        {
+                            "name": "Berry wine",
+                            "value": 1
+                        },
+                        {
+                            "name": "Apple cider",
+                            "value": 13
+                        },
+                        {
+                            "name": "Sake",
+                            "value": 421
+                        },
+                        {
+                            "name": "Grape wine",
+                            "value": 0
+                        },
+                        {
+                            "name": "Other wine",
+                            "value": 4
+                        },
+                        {
+                            "name": "Beer",
+                            "value": 2424
+                        }
+                    ]
+                },
+                {
+                    "name": "Distilled beverages",
+                    "value": 1917,
+                    "children": [
+                        {
+                            "name": "Vodka",
+                            "value": 165
+                        },
+                        {
+                            "name": "Rum",
+                            "value": 108
+                        },
+                        {
+                            "name": "Liquor",
+                            "value": 75
+                        },
+                        {
+                            "name": "Gin",
+                            "value": 387
+                        },
+                        {
+                            "name": "Spirit",
+                            "value": 979
+                        },
+                        {
+                            "name": "Whisky",
+                            "value": 203
+                        }
+                    ]
+                },
+                {
+                    "name": "Waters",
+                    "value": 3853,
+                    "children": [
+                        {
+                            "name": "Water",
+                            "value": 3853
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "value": 157,
+                    "children": [
+                        {
+                            "name": "Beverages",
+                            "value": 157
+                        }
+                    ]
+                },
+                {
+                    "name": "Fortified wines",
+                    "value": 52,
+                    "children": [
+                        {
+                            "name": "Port wine",
+                            "value": 1
+                        },
+                        {
+                            "name": "Madeira wine",
+                            "value": 0
+                        },
+                        {
+                            "name": "Vermouth",
+                            "value": 11
+                        },
+                        {
+                            "name": "Fortified wine",
+                            "value": 2
+                        },
+                        {
+                            "name": "Sherry",
+                            "value": 38
+                        }
+                    ]
+                },
+                {
+                    "name": "Alcoholic beverages",
+                    "value": 247,
+                    "children": [
+                        {
+                            "name": "Alcoholic beverages",
+                            "value": 3
+                        },
+                        {
+                            "name": "Cocktail",
+                            "value": 244
+                        },
+                        {
+                            "name": "Other alcoholic beverage",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Nutritional beverages",
+                    "value": 23,
+                    "children": [
+                        {
+                            "name": "Nutritional drink",
+                            "value": 0
+                        },
+                        {
+                            "name": "Energy drink",
+                            "value": 23
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Aquatic foods",
+            "value": 1760,
+            "children": [
+                {
+                    "name": "Pinnipeds",
+                    "value": 10,
+                    "children": [
+                        {
+                            "name": "True seal",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spotted seal",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ringed seal",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bearded seal",
+                            "value": 0
+                        },
+                        {
+                            "name": "Steller sea lion",
+                            "value": 0
+                        },
+                        {
+                            "name": "Walrus",
+                            "value": 10
+                        }
+                    ]
+                },
+                {
+                    "name": "Mollusks",
+                    "value": 210,
+                    "children": [
+                        {
+                            "name": "Blue mussel",
+                            "value": 0
+                        },
+                        {
+                            "name": "Marine mussel",
+                            "value": 0
+                        },
+                        {
+                            "name": "Nuttall cockle",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bivalvia",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mollusks",
+                            "value": 3
+                        },
+                        {
+                            "name": "Snail",
+                            "value": 52
+                        },
+                        {
+                            "name": "True oyster",
+                            "value": 1
+                        },
+                        {
+                            "name": "Squid",
+                            "value": 93
+                        },
+                        {
+                            "name": "Conch",
+                            "value": 3
+                        },
+                        {
+                            "name": "Pacific oyster",
+                            "value": 2
+                        },
+                        {
+                            "name": "Whelk",
+                            "value": 0
+                        },
+                        {
+                            "name": "Scallop",
+                            "value": 28
+                        },
+                        {
+                            "name": "Abalone",
+                            "value": 19
+                        },
+                        {
+                            "name": "Eastern oyster",
+                            "value": 0
+                        },
+                        {
+                            "name": "Leather chiton",
+                            "value": 0
+                        },
+                        {
+                            "name": "North Pacific giant octopus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cuttlefish",
+                            "value": 9
+                        },
+                        {
+                            "name": "Common octopus",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Cetaceans",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Bowhead whale",
+                            "value": 1
+                        },
+                        {
+                            "name": "Beluga whale",
+                            "value": 2
+                        },
+                        {
+                            "name": "Cetacea",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Crustaceans",
+                    "value": 167,
+                    "children": [
+                        {
+                            "name": "Spiny lobster",
+                            "value": 0
+                        },
+                        {
+                            "name": "Crustaceans",
+                            "value": 7
+                        },
+                        {
+                            "name": "Clawed lobster",
+                            "value": 0
+                        },
+                        {
+                            "name": "Snow crab",
+                            "value": 0
+                        },
+                        {
+                            "name": "Shrimp",
+                            "value": 27
+                        },
+                        {
+                            "name": "Norway lobster",
+                            "value": 0
+                        },
+                        {
+                            "name": "Dungeness crab",
+                            "value": 0
+                        },
+                        {
+                            "name": "Crab",
+                            "value": 112
+                        },
+                        {
+                            "name": "Blue crab",
+                            "value": 0
+                        },
+                        {
+                            "name": "Red king crab",
+                            "value": 0
+                        },
+                        {
+                            "name": "Crayfish",
+                            "value": 21
+                        },
+                        {
+                            "name": "American lobster",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fish products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Other fish product",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Roe",
+                    "value": 93,
+                    "children": [
+                        {
+                            "name": "Roe",
+                            "value": 93
+                        }
+                    ]
+                },
+                {
+                    "name": "Amphibians",
+                    "value": 1,
+                    "children": [
+                        {
+                            "name": "True frog",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Seaweed",
+                    "value": 103,
+                    "children": [
+                        {
+                            "name": "Red algae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spirulina",
+                            "value": 1
+                        },
+                        {
+                            "name": "Irish moss",
+                            "value": 1
+                        },
+                        {
+                            "name": "Purple laver",
+                            "value": 0
+                        },
+                        {
+                            "name": "Wakame",
+                            "value": 2
+                        },
+                        {
+                            "name": "Agar",
+                            "value": 39
+                        },
+                        {
+                            "name": "Kelp",
+                            "value": 60
+                        },
+                        {
+                            "name": "Kombu",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Other aquatic foods",
+                    "value": 38,
+                    "children": [
+                        {
+                            "name": "Ascidians",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tunicate",
+                            "value": 0
+                        },
+                        {
+                            "name": "Jellyfish",
+                            "value": 32
+                        },
+                        {
+                            "name": "Green turtle",
+                            "value": 4
+                        },
+                        {
+                            "name": "Sea cucumber",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Fishes",
+                    "value": 1135,
+                    "children": [
+                        {
+                            "name": "Pleuronectidae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Perciformes",
+                            "value": 0
+                        },
+                        {
+                            "name": "American butterfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tilefish",
+                            "value": 0
+                        },
+                        {
+                            "name": "European anchovy",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common carp",
+                            "value": 0
+                        },
+                        {
+                            "name": "Striped bass",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alaska pollock",
+                            "value": 0
+                        },
+                        {
+                            "name": "Monkfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Norway pout",
+                            "value": 0
+                        },
+                        {
+                            "name": "Turbot",
+                            "value": 0
+                        },
+                        {
+                            "name": "Anchovy",
+                            "value": 13
+                        },
+                        {
+                            "name": "Dab",
+                            "value": 109
+                        },
+                        {
+                            "name": "Freshwater eel",
+                            "value": 1
+                        },
+                        {
+                            "name": "Greater sturgeon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Northern pike",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rainbow smelt",
+                            "value": 0
+                        },
+                        {
+                            "name": "Clupeinae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fishes",
+                            "value": 13
+                        },
+                        {
+                            "name": "Atlantic croaker",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common ling",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pacific cod",
+                            "value": 0
+                        },
+                        {
+                            "name": "Atlantic halibut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Thunnus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Carp bream",
+                            "value": 0
+                        },
+                        {
+                            "name": "Flatfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Haddock",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pacific rockfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Channel catfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Blue whiting",
+                            "value": 0
+                        },
+                        {
+                            "name": "Hake",
+                            "value": 3
+                        },
+                        {
+                            "name": "Shark",
+                            "value": 390
+                        },
+                        {
+                            "name": "Cisco",
+                            "value": 58
+                        },
+                        {
+                            "name": "Salmonidae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Broad whitefish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Walleye",
+                            "value": 0
+                        },
+                        {
+                            "name": "Garfish",
+                            "value": 2
+                        },
+                        {
+                            "name": "Sheefish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Percoidei",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pink salmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Smelt",
+                            "value": 27
+                        },
+                        {
+                            "name": "Pikeperch",
+                            "value": 0
+                        },
+                        {
+                            "name": "Grouper",
+                            "value": 6
+                        },
+                        {
+                            "name": "Northern bluefin tuna",
+                            "value": 0
+                        },
+                        {
+                            "name": "Painted comber",
+                            "value": 0
+                        },
+                        {
+                            "name": "Catfish",
+                            "value": 33
+                        },
+                        {
+                            "name": "Pacific herring",
+                            "value": 0
+                        },
+                        {
+                            "name": "Anguilliformes",
+                            "value": 0
+                        },
+                        {
+                            "name": "Snapper",
+                            "value": 69
+                        },
+                        {
+                            "name": "Atlantic salmon",
+                            "value": 4
+                        },
+                        {
+                            "name": "Lumpsucker",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cusk",
+                            "value": 3
+                        },
+                        {
+                            "name": "Skipjack tuna",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lemon sole",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ocean pout",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rainbow trout",
+                            "value": 5
+                        },
+                        {
+                            "name": "Yellowtail amberjack",
+                            "value": 0
+                        },
+                        {
+                            "name": "American shad",
+                            "value": 0
+                        },
+                        {
+                            "name": "Scombridae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sturgeon",
+                            "value": 15
+                        },
+                        {
+                            "name": "Pacific salmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Atlantic menhaden",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chum salmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Florida pompano",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sablefish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pollock",
+                            "value": 25
+                        },
+                        {
+                            "name": "Lingcod",
+                            "value": 0
+                        },
+                        {
+                            "name": "True sole",
+                            "value": 0
+                        },
+                        {
+                            "name": "Burbot",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pacific jack mackerel",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pacific ocean perch",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cichlidae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Freshwater drum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spot croaker",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pacific halibut",
+                            "value": 0
+                        },
+                        {
+                            "name": "Gadiformes",
+                            "value": 0
+                        },
+                        {
+                            "name": "Yellowfin tuna",
+                            "value": 8
+                        },
+                        {
+                            "name": "White sucker",
+                            "value": 0
+                        },
+                        {
+                            "name": "Atlantic wolffish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Whitefish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Norway haddock",
+                            "value": 0
+                        },
+                        {
+                            "name": "Hippoglossus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Atlantic mackerel",
+                            "value": 0
+                        },
+                        {
+                            "name": "Devilfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Atlantic pollock",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spiny dogfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Milkfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Atlantic herring",
+                            "value": 0
+                        },
+                        {
+                            "name": "Seatrout",
+                            "value": 0
+                        },
+                        {
+                            "name": "Striped mullet",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spanish mackerel",
+                            "value": 1
+                        },
+                        {
+                            "name": "Pumpkinseed sunfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Swordfish",
+                            "value": 13
+                        },
+                        {
+                            "name": "Coho salmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bluefish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Greenland halibut/turbot",
+                            "value": 0
+                        },
+                        {
+                            "name": "Orange roughy",
+                            "value": 3
+                        },
+                        {
+                            "name": "Gadus",
+                            "value": 6
+                        },
+                        {
+                            "name": "Albacore tuna",
+                            "value": 2
+                        },
+                        {
+                            "name": "Dolphin fish",
+                            "value": 1
+                        },
+                        {
+                            "name": "Charr",
+                            "value": 0
+                        },
+                        {
+                            "name": "Coalfish pollock",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alaska blackfish",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sheepshead",
+                            "value": 1
+                        },
+                        {
+                            "name": "Chinook salmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pacific sardine",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sprat",
+                            "value": 1
+                        },
+                        {
+                            "name": "Sardine",
+                            "value": 8
+                        },
+                        {
+                            "name": "Scup",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lake trout",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sockeye salmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cod",
+                            "value": 229
+                        },
+                        {
+                            "name": "Whiting",
+                            "value": 65
+                        },
+                        {
+                            "name": "King mackerel",
+                            "value": 0
+                        },
+                        {
+                            "name": "Herring",
+                            "value": 20
+                        },
+                        {
+                            "name": "Atlantic cod",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Baby foods",
+            "value": 2,
+            "children": [
+                {
+                    "name": "Baby foods",
+                    "value": 2,
+                    "children": [
+                        {
+                            "name": "Baby food",
+                            "value": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cereals and cereal products",
+            "value": 3138,
+            "children": [
+                {
+                    "name": "Cereal products",
+                    "value": 643,
+                    "children": [
+                        {
+                            "name": "Breakfast cereal",
+                            "value": 6
+                        },
+                        {
+                            "name": "Bulgur",
+                            "value": 0
+                        },
+                        {
+                            "name": "Other cereal product",
+                            "value": 0
+                        },
+                        {
+                            "name": "Flour",
+                            "value": 75
+                        },
+                        {
+                            "name": "Biscuit",
+                            "value": 107
+                        },
+                        {
+                            "name": "Corn grits",
+                            "value": 0
+                        },
+                        {
+                            "name": "Semolina",
+                            "value": 2
+                        },
+                        {
+                            "name": "Pasta",
+                            "value": 453
+                        }
+                    ]
+                },
+                {
+                    "name": "Cereals",
+                    "value": 2232,
+                    "children": [
+                        {
+                            "name": "Common buckwheat",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oriental wheat",
+                            "value": 0
+                        },
+                        {
+                            "name": "Wheat",
+                            "value": 606
+                        },
+                        {
+                            "name": "Sorghum",
+                            "value": 93
+                        },
+                        {
+                            "name": "Corn",
+                            "value": 241
+                        },
+                        {
+                            "name": "Rye",
+                            "value": 166
+                        },
+                        {
+                            "name": "Hard wheat",
+                            "value": 1
+                        },
+                        {
+                            "name": "Annual wild rice",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common wheat",
+                            "value": 0
+                        },
+                        {
+                            "name": "Millet",
+                            "value": 35
+                        },
+                        {
+                            "name": "Wild rice",
+                            "value": 2
+                        },
+                        {
+                            "name": "Oat",
+                            "value": 112
+                        },
+                        {
+                            "name": "Barley",
+                            "value": 372
+                        },
+                        {
+                            "name": "Red rice",
+                            "value": 0
+                        },
+                        {
+                            "name": "Spelt",
+                            "value": 101
+                        },
+                        {
+                            "name": "Triticale",
+                            "value": 9
+                        },
+                        {
+                            "name": "Rice",
+                            "value": 494
+                        },
+                        {
+                            "name": "Tartary buckwheat",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Flat breads",
+                    "value": 37,
+                    "children": [
+                        {
+                            "name": "Piki bread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pita bread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Crisp bread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Focaccia",
+                            "value": 3
+                        },
+                        {
+                            "name": "Tortilla",
+                            "value": 34
+                        },
+                        {
+                            "name": "Cornbread",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Doughs",
+                    "value": 156,
+                    "children": [
+                        {
+                            "name": "Dough",
+                            "value": 65
+                        },
+                        {
+                            "name": "Sourdough",
+                            "value": 91
+                        }
+                    ]
+                },
+                {
+                    "name": "Other breads",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Other bread",
+                            "value": 1
+                        },
+                        {
+                            "name": "Potato bread",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Cereals and cereal products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Cereals and cereal products",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Bread products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Other bread product",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Leavened breads",
+                    "value": 67,
+                    "children": [
+                        {
+                            "name": "Wheat bread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oat bread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Zwieback",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rye bread",
+                            "value": 5
+                        },
+                        {
+                            "name": "Bagel",
+                            "value": 35
+                        },
+                        {
+                            "name": "French toast",
+                            "value": 26
+                        },
+                        {
+                            "name": "Pan dulce",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rice bread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Multigrain bread",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Sweet breads",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Raisin bread",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Teas",
+            "value": 1251,
+            "children": [
+                {
+                    "name": "Herbal teas",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Greenthread tea",
+                            "value": 0
+                        },
+                        {
+                            "name": "Hibiscus tea",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Teas",
+                    "value": 1251,
+                    "children": [
+                        {
+                            "name": "Tea",
+                            "value": 1251
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Unclassified",
+            "value": 0,
+            "children": [
+                {
+                    "name": "Unclassified",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Unclassified food or beverage",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Milk and milk products",
+            "value": 3084,
+            "children": [
+                {
+                    "name": "Fermented milk products",
+                    "value": 990,
+                    "children": [
+                        {
+                            "name": "Yogurt",
+                            "value": 27
+                        },
+                        {
+                            "name": "Cheese",
+                            "value": 957
+                        },
+                        {
+                            "name": "Ymer",
+                            "value": 6
+                        },
+                        {
+                            "name": "Processed cheese",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Milk and milk products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Milk and milk products",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fermented milks",
+                    "value": 9,
+                    "children": [
+                        {
+                            "name": "Buttermilk",
+                            "value": 7
+                        },
+                        {
+                            "name": "Kefir",
+                            "value": 2
+                        },
+                        {
+                            "name": "Other fermented milk",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Other milk products",
+                    "value": 1256,
+                    "children": [
+                        {
+                            "name": "Butter",
+                            "value": 432
+                        },
+                        {
+                            "name": "Dried milk",
+                            "value": 0
+                        },
+                        {
+                            "name": "Casein",
+                            "value": 6
+                        },
+                        {
+                            "name": "Butterfat",
+                            "value": 0
+                        },
+                        {
+                            "name": "Condensed milk",
+                            "value": 8
+                        },
+                        {
+                            "name": "Whey",
+                            "value": 24
+                        },
+                        {
+                            "name": "Evaporated milk",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cream",
+                            "value": 786
+                        }
+                    ]
+                },
+                {
+                    "name": "Unfermented milks",
+                    "value": 829,
+                    "children": [
+                        {
+                            "name": "Mammals Milk",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cow milk",
+                            "value": 1
+                        },
+                        {
+                            "name": "Milk",
+                            "value": 827
+                        },
+                        {
+                            "name": "Human Milk",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Baking goods",
+            "value": 2903,
+            "children": [
+                {
+                    "name": "Wrappers",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Edible shell",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pie crust",
+                            "value": 0
+                        },
+                        {
+                            "name": "Wonton wrapper",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ice cream cone",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Substitutes",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Milk substitute",
+                            "value": 1
+                        },
+                        {
+                            "name": "Egg substitute",
+                            "value": 1
+                        },
+                        {
+                            "name": "Sugar substitute",
+                            "value": 1
+                        },
+                        {
+                            "name": "Coffee substitute",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cream substitute",
+                            "value": 0
+                        },
+                        {
+                            "name": "Butter substitute",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Condiments",
+                    "value": 149,
+                    "children": [
+                        {
+                            "name": "Remoulade",
+                            "value": 0
+                        },
+                        {
+                            "name": "Relish",
+                            "value": 50
+                        },
+                        {
+                            "name": "Mustard",
+                            "value": 68
+                        },
+                        {
+                            "name": "Ketchup",
+                            "value": 31
+                        }
+                    ]
+                },
+                {
+                    "name": "Dressings",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Salad dressing",
+                            "value": 3
+                        }
+                    ]
+                },
+                {
+                    "name": "Sugars",
+                    "value": 489,
+                    "children": [
+                        {
+                            "name": "Sugar",
+                            "value": 489
+                        }
+                    ]
+                },
+                {
+                    "name": "Baking goods",
+                    "value": 1209,
+                    "children": [
+                        {
+                            "name": "Topping",
+                            "value": 78
+                        },
+                        {
+                            "name": "Spread",
+                            "value": 997
+                        },
+                        {
+                            "name": "Pectin",
+                            "value": 0
+                        },
+                        {
+                            "name": "Phyllo dough",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pie filling",
+                            "value": 1
+                        },
+                        {
+                            "name": "Cooking oil",
+                            "value": 5
+                        },
+                        {
+                            "name": "Stuffing",
+                            "value": 49
+                        },
+                        {
+                            "name": "Gelatin",
+                            "value": 1
+                        },
+                        {
+                            "name": "Meat bouillon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Leavening agent",
+                            "value": 0
+                        },
+                        {
+                            "name": "Molasses",
+                            "value": 3
+                        },
+                        {
+                            "name": "Tapioca pearl",
+                            "value": 0
+                        },
+                        {
+                            "name": "Syrup",
+                            "value": 75
+                        }
+                    ]
+                },
+                {
+                    "name": "Seasonings",
+                    "value": 538,
+                    "children": [
+                        {
+                            "name": "Vinegar",
+                            "value": 78
+                        },
+                        {
+                            "name": "Salt",
+                            "value": 454
+                        },
+                        {
+                            "name": "Adobo",
+                            "value": 6
+                        }
+                    ]
+                },
+                {
+                    "name": "Sauces",
+                    "value": 509,
+                    "children": [
+                        {
+                            "name": "Sauce",
+                            "value": 509
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cocoa and cocoa products",
+            "value": 1233,
+            "children": [
+                {
+                    "name": "Cocoa",
+                    "value": 7,
+                    "children": [
+                        {
+                            "name": "Cocoa bean",
+                            "value": 7
+                        }
+                    ]
+                },
+                {
+                    "name": "Cocoa products",
+                    "value": 1226,
+                    "children": [
+                        {
+                            "name": "Cocoa butter",
+                            "value": 3
+                        },
+                        {
+                            "name": "Hot chocolate",
+                            "value": 88
+                        },
+                        {
+                            "name": "Cocoa powder",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chocolate",
+                            "value": 1135
+                        },
+                        {
+                            "name": "Other cocoa product",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cocoa liquor",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Cocoa and cocoa products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Cocoa and cocoa products",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fruits",
+            "value": 7298,
+            "children": [
+                {
+                    "name": "Fruit products",
+                    "value": 29,
+                    "children": [
+                        {
+                            "name": "Other fruit product",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fruit preserve",
+                            "value": 0
+                        },
+                        {
+                            "name": "Fruit salad",
+                            "value": 29
+                        }
+                    ]
+                },
+                {
+                    "name": "Other fruits",
+                    "value": 2355,
+                    "children": [
+                        {
+                            "name": "Date",
+                            "value": 2237
+                        },
+                        {
+                            "name": "Jujube",
+                            "value": 3
+                        },
+                        {
+                            "name": "Fig",
+                            "value": 115
+                        }
+                    ]
+                },
+                {
+                    "name": "Tropical fruits",
+                    "value": 1153,
+                    "children": [
+                        {
+                            "name": "Japanese persimmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Custard apple",
+                            "value": 3
+                        },
+                        {
+                            "name": "Abiyuch",
+                            "value": 0
+                        },
+                        {
+                            "name": "Java plum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Prickly pear",
+                            "value": 5
+                        },
+                        {
+                            "name": "Plains prickly pear",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sapodilla",
+                            "value": 0
+                        },
+                        {
+                            "name": "Kumquat",
+                            "value": 4
+                        },
+                        {
+                            "name": "Star fruit",
+                            "value": 0
+                        },
+                        {
+                            "name": "Banana",
+                            "value": 288
+                        },
+                        {
+                            "name": "Kiwi",
+                            "value": 282
+                        },
+                        {
+                            "name": "Papaya",
+                            "value": 13
+                        },
+                        {
+                            "name": "Mammee apple",
+                            "value": 0
+                        },
+                        {
+                            "name": "Feijoa",
+                            "value": 14
+                        },
+                        {
+                            "name": "Pomegranate",
+                            "value": 27
+                        },
+                        {
+                            "name": "Rambutan",
+                            "value": 1
+                        },
+                        {
+                            "name": "Persimmon",
+                            "value": 5
+                        },
+                        {
+                            "name": "Cherimoya",
+                            "value": 0
+                        },
+                        {
+                            "name": "Loquat",
+                            "value": 3
+                        },
+                        {
+                            "name": "Natal plum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pitanga",
+                            "value": 0
+                        },
+                        {
+                            "name": "Jackfruit",
+                            "value": 2
+                        },
+                        {
+                            "name": "French plantain",
+                            "value": 0
+                        },
+                        {
+                            "name": "Acerola",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mamey sapote",
+                            "value": 0
+                        },
+                        {
+                            "name": "Soursop",
+                            "value": 0
+                        },
+                        {
+                            "name": "Malabar plum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mango",
+                            "value": 158
+                        },
+                        {
+                            "name": "Longan",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pineapple",
+                            "value": 168
+                        },
+                        {
+                            "name": "Common persimmon",
+                            "value": 0
+                        },
+                        {
+                            "name": "Nance",
+                            "value": 7
+                        },
+                        {
+                            "name": "Coconut",
+                            "value": 133
+                        },
+                        {
+                            "name": "Purple mangosteen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Breadfruit",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sugar apple",
+                            "value": 0
+                        },
+                        {
+                            "name": "Naranjilla",
+                            "value": 1
+                        },
+                        {
+                            "name": "Durian",
+                            "value": 13
+                        },
+                        {
+                            "name": "Lichee",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tamarind",
+                            "value": 2
+                        },
+                        {
+                            "name": "Guava",
+                            "value": 8
+                        },
+                        {
+                            "name": "Passion fruit",
+                            "value": 16
+                        },
+                        {
+                            "name": "Wax apple",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Citrus",
+                    "value": 865,
+                    "children": [
+                        {
+                            "name": "Mandarin orange",
+                            "value": 0
+                        },
+                        {
+                            "name": "Persian lime",
+                            "value": 1
+                        },
+                        {
+                            "name": "Lemon",
+                            "value": 362
+                        },
+                        {
+                            "name": "Pummelo",
+                            "value": 0
+                        },
+                        {
+                            "name": "Grapefruit/Pummelo hybrid",
+                            "value": 0
+                        },
+                        {
+                            "name": "Citrus",
+                            "value": 152
+                        },
+                        {
+                            "name": "Grapefruit",
+                            "value": 27
+                        },
+                        {
+                            "name": "Sweet orange",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lime",
+                            "value": 323
+                        }
+                    ]
+                },
+                {
+                    "name": "Pomes",
+                    "value": 1503,
+                    "children": [
+                        {
+                            "name": "Apple",
+                            "value": 1339
+                        },
+                        {
+                            "name": "Medlar",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pear",
+                            "value": 116
+                        },
+                        {
+                            "name": "Asian pear",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pomes",
+                            "value": 3
+                        },
+                        {
+                            "name": "Quince",
+                            "value": 23
+                        },
+                        {
+                            "name": "Malus",
+                            "value": 22
+                        }
+                    ]
+                },
+                {
+                    "name": "Drupes",
+                    "value": 337,
+                    "children": [
+                        {
+                            "name": "Prunus",
+                            "value": 3
+                        },
+                        {
+                            "name": "Peach",
+                            "value": 300
+                        },
+                        {
+                            "name": "Apricot",
+                            "value": 27
+                        },
+                        {
+                            "name": "Nectarine",
+                            "value": 4
+                        },
+                        {
+                            "name": "Sour cherry",
+                            "value": 3
+                        },
+                        {
+                            "name": "European plum",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sweet cherry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common chokecherry",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Fruits",
+                    "value": 782,
+                    "children": [
+                        {
+                            "name": "Fruits",
+                            "value": 782
+                        }
+                    ]
+                },
+                {
+                    "name": "Berries",
+                    "value": 274,
+                    "children": [
+                        {
+                            "name": "Grape",
+                            "value": 132
+                        },
+                        {
+                            "name": "Salmonberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black crowberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black mulberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Arctic blackberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Oval-leaf huckleberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black chokeberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sea-buckthornberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sweet rowanberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Blackcurrant",
+                            "value": 3
+                        },
+                        {
+                            "name": "Red raspberry",
+                            "value": 1
+                        },
+                        {
+                            "name": "Strawberry guava",
+                            "value": 0
+                        },
+                        {
+                            "name": "Skunk currant",
+                            "value": 0
+                        },
+                        {
+                            "name": "Vaccinium",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bog bilberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Muscadine grape",
+                            "value": 0
+                        },
+                        {
+                            "name": "Redcurrant",
+                            "value": 0
+                        },
+                        {
+                            "name": "American cranberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Cascade huckleberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black huckleberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Deerberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ohelo berry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black elderberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Elderberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mulberry",
+                            "value": 14
+                        },
+                        {
+                            "name": "Cloudberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Gooseberry",
+                            "value": 2
+                        },
+                        {
+                            "name": "Black raspberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Sparkleberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Boysenberry",
+                            "value": 1
+                        },
+                        {
+                            "name": "Elliott's blueberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Jostaberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common grape",
+                            "value": 0
+                        },
+                        {
+                            "name": "Highbush blueberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lingonberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "European cranberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Alaska blueberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Saskatoon berry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Half-highbush blueberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Loganberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Strawberry",
+                            "value": 120
+                        },
+                        {
+                            "name": "Fox grape",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rowanberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chinese bayberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Nanking cherry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Canada blueberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Squashberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bilberry",
+                            "value": 1
+                        },
+                        {
+                            "name": "Rubus",
+                            "value": 0
+                        },
+                        {
+                            "name": "Red huckleberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lowbush blueberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Buffalo currant",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bayberry",
+                            "value": 0
+                        },
+                        {
+                            "name": "Summer grape",
+                            "value": 0
+                        },
+                        {
+                            "name": "Evergreen huckleberry",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Coffee and coffee products",
+            "value": 2766,
+            "children": [
+                {
+                    "name": "Coffee and coffee products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Coffee and coffee products",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee",
+                    "value": 2766,
+                    "children": [
+                        {
+                            "name": "Coffee",
+                            "value": 2766
+                        },
+                        {
+                            "name": "Arabica coffee",
+                            "value": 0
+                        },
+                        {
+                            "name": "Robusta coffee",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Coffee mocha",
+                            "value": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Animal foods",
+            "value": 5699,
+            "children": [
+                {
+                    "name": "Poultry",
+                    "value": 1538,
+                    "children": [
+                        {
+                            "name": "Turkey",
+                            "value": 184
+                        },
+                        {
+                            "name": "Columbidae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pheasant",
+                            "value": 7
+                        },
+                        {
+                            "name": "Dove",
+                            "value": 66
+                        },
+                        {
+                            "name": "Greylag goose",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mallard duck",
+                            "value": 0
+                        },
+                        {
+                            "name": "Ostrich",
+                            "value": 10
+                        },
+                        {
+                            "name": "Emu",
+                            "value": 128
+                        },
+                        {
+                            "name": "Velvet duck",
+                            "value": 0
+                        },
+                        {
+                            "name": "Squab",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pigeon",
+                            "value": 82
+                        },
+                        {
+                            "name": "Anatidae",
+                            "value": 0
+                        },
+                        {
+                            "name": "Quail",
+                            "value": 28
+                        },
+                        {
+                            "name": "Chicken",
+                            "value": 1033
+                        },
+                        {
+                            "name": "Guinea hen",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rock ptarmigan",
+                            "value": 0
+                        },
+                        {
+                            "name": "Great horned owl",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Meat products",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Other meat product",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Animal foods",
+                    "value": 1,
+                    "children": [
+                        {
+                            "name": "Animal foods",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Other mammals",
+                    "value": 38,
+                    "children": [
+                        {
+                            "name": "Raccoon",
+                            "value": 15
+                        },
+                        {
+                            "name": "Polar bear",
+                            "value": 10
+                        },
+                        {
+                            "name": "Brown bear",
+                            "value": 5
+                        },
+                        {
+                            "name": "Black bear",
+                            "value": 8
+                        }
+                    ]
+                },
+                {
+                    "name": "Bovines",
+                    "value": 1218,
+                    "children": [
+                        {
+                            "name": "Beefalo",
+                            "value": 0
+                        },
+                        {
+                            "name": "Beef",
+                            "value": 707
+                        },
+                        {
+                            "name": "Veal",
+                            "value": 32
+                        },
+                        {
+                            "name": "Cattle",
+                            "value": 363
+                        },
+                        {
+                            "name": "Bison",
+                            "value": 21
+                        },
+                        {
+                            "name": "Buffalo",
+                            "value": 95
+                        }
+                    ]
+                },
+                {
+                    "name": "Venison",
+                    "value": 299,
+                    "children": [
+                        {
+                            "name": "Elk",
+                            "value": 35
+                        },
+                        {
+                            "name": "Moose",
+                            "value": 143
+                        },
+                        {
+                            "name": "Mule deer",
+                            "value": 0
+                        },
+                        {
+                            "name": "Deer",
+                            "value": 114
+                        },
+                        {
+                            "name": "Antelope",
+                            "value": 5
+                        },
+                        {
+                            "name": "Caribou",
+                            "value": 2
+                        }
+                    ]
+                },
+                {
+                    "name": "Swine",
+                    "value": 4,
+                    "children": [
+                        {
+                            "name": "Wild boar",
+                            "value": 4
+                        },
+                        {
+                            "name": "Domestic pig",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Rodents",
+                    "value": 80,
+                    "children": [
+                        {
+                            "name": "Beaver",
+                            "value": 19
+                        },
+                        {
+                            "name": "Muskrat",
+                            "value": 1
+                        },
+                        {
+                            "name": "Arctic ground squirrel",
+                            "value": 0
+                        },
+                        {
+                            "name": "Squirrel",
+                            "value": 60
+                        }
+                    ]
+                },
+                {
+                    "name": "Marsupials",
+                    "value": 1,
+                    "children": [
+                        {
+                            "name": "Opossum",
+                            "value": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "Lagomorphs",
+                    "value": 305,
+                    "children": [
+                        {
+                            "name": "Mountain hare",
+                            "value": 0
+                        },
+                        {
+                            "name": "Rabbit",
+                            "value": 305
+                        },
+                        {
+                            "name": "European rabbit",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Equines",
+                    "value": 1735,
+                    "children": [
+                        {
+                            "name": "Horse",
+                            "value": 1735
+                        }
+                    ]
+                },
+                {
+                    "name": "Caprae",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Domestic goat",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Ovis",
+                    "value": 480,
+                    "children": [
+                        {
+                            "name": "Lamb",
+                            "value": 459
+                        },
+                        {
+                            "name": "Mutton",
+                            "value": 21
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pulses",
+            "value": 602,
+            "children": [
+                {
+                    "name": "Lentils",
+                    "value": 135,
+                    "children": [
+                        {
+                            "name": "Lentils",
+                            "value": 135
+                        }
+                    ]
+                },
+                {
+                    "name": "Other pulses",
+                    "value": 3,
+                    "children": [
+                        {
+                            "name": "Lupine",
+                            "value": 3
+                        },
+                        {
+                            "name": "White lupine",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Pulses",
+                    "value": 122,
+                    "children": [
+                        {
+                            "name": "Pulses",
+                            "value": 122
+                        }
+                    ]
+                },
+                {
+                    "name": "Beans",
+                    "value": 295,
+                    "children": [
+                        {
+                            "name": "Broad bean",
+                            "value": 6
+                        },
+                        {
+                            "name": "Moth bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Green bean",
+                            "value": 17
+                        },
+                        {
+                            "name": "Yellow wax bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Lima bean",
+                            "value": 1
+                        },
+                        {
+                            "name": "Scarlet bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Gram bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Winged bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Bean",
+                            "value": 268
+                        },
+                        {
+                            "name": "Hyacinth bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Climbing bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Mung bean",
+                            "value": 3
+                        },
+                        {
+                            "name": "Adzuki bean",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Peas",
+                    "value": 47,
+                    "children": [
+                        {
+                            "name": "Cowpea",
+                            "value": 2
+                        },
+                        {
+                            "name": "Yardlong bean",
+                            "value": 0
+                        },
+                        {
+                            "name": "Chickpea",
+                            "value": 44
+                        },
+                        {
+                            "name": "Grass pea",
+                            "value": 0
+                        },
+                        {
+                            "name": "Common pea",
+                            "value": 0
+                        },
+                        {
+                            "name": "Pigeon pea",
+                            "value": 0
+                        },
+                        {
+                            "name": "Catjang pea",
+                            "value": 0
+                        },
+                        {
+                            "name": "Black-eyed pea",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Soy",
+            "value": 159,
+            "children": [
+                {
+                    "name": "Soy",
+                    "value": 4,
+                    "children": [
+                        {
+                            "name": "Soy bean",
+                            "value": 4
+                        }
+                    ]
+                },
+                {
+                    "name": "Soy products",
+                    "value": 155,
+                    "children": [
+                        {
+                            "name": "Miso",
+                            "value": 45
+                        },
+                        {
+                            "name": "Other soy product",
+                            "value": 0
+                        },
+                        {
+                            "name": "Soy yogurt",
+                            "value": 0
+                        },
+                        {
+                            "name": "Soy cream",
+                            "value": 0
+                        },
+                        {
+                            "name": "Natto",
+                            "value": 0
+                        },
+                        {
+                            "name": "Tofu",
+                            "value": 76
+                        },
+                        {
+                            "name": "Soy sauce",
+                            "value": 20
+                        },
+                        {
+                            "name": "Soy milk",
+                            "value": 14
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fats and oils",
+            "value": 98,
+            "children": [
+                {
+                    "name": "Fats and oils",
+                    "value": 0,
+                    "children": [
+                        {
+                            "name": "Fats and oils",
+                            "value": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Vegetable fats",
+                    "value": 19,
+                    "children": [
+                        {
+                            "name": "Margarine",
+                            "value": 7
+                        },
+                        {
+                            "name": "Margarine-like spread",
+                            "value": 0
+                        },
+                        {
+                            "name": "Shortening",
+                            "value": 12
+                        }
+                    ]
+                },
+                {
+                    "name": "Animal fats",
+                    "value": 79,
+                    "children": [
+                        {
+                            "name": "Tallow",
+                            "value": 15
+                        },
+                        {
+                            "name": "Other animal fat",
+                            "value": 0
+                        },
+                        {
+                            "name": "Dripping",
+                            "value": 50
+                        },
+                        {
+                            "name": "Lard",
+                            "value": 14
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
