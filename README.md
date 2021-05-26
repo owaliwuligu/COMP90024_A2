@@ -1,11 +1,6 @@
 Task : 
-    Cluster	and	Cloud	Computing	Assignment	2	-	City	Analytics	on	the	Cloud
-Title:
-    vicFoodie
-Video:
-    https://www.youtube.com/watch?v=l-dD9ifIqnU
-    https://www.youtube.com/watch?v=TJZ4j1viZbE
-    https://www.youtube.com/watch?v=ALD2VgHdxb8
+    Cluster and Cloud Computing Assignment 2 - City Analytics on the Cloud
+    
 
 Five Modules
 1. Ansibles
